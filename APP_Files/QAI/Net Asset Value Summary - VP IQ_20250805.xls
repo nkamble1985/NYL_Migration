@@ -1,0 +1,1208 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01C3AACE.2206ED10"
+
+This document is a Web archive file.  If you are seeing this message, this means your browser or editor doesn't support Web archive files.  For more information on the Web archive format, go to http://officeupdate.microsoft.com/office/webarchive.htm.
+
+------=_NextPart_01C3AACE.2206ED10
+Content-Location: http://localhost/excel.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 10">
+<link rel=3DFile-List href=3D"
+excel_files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"excel_files/editdata.mso">
+<link rel=3DOLE-Object-Data href=3D"excel_files/oledata.mso">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"excel_files/Net+Asset+Value+Summary+-+VP+IQ.htm">
+<link id=3D"shLink">
+<script language=3D"JavaScript">
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+<x:ExcelWorkbook>
+<x:ExcelWorksheets>
+<x:ExcelWorksheet>
+<x:Name>Net Asset Value Summary - VP IQ</x:Name>
+<x:WorksheetSource HRef=3D"excel_files/Net+Asset+Value+Summary+-+VP+IQ.htm"/>
+</x:ExcelWorksheet>
+</x:ExcelWorksheets>
+<x:Stylesheet HRef=3D"excel_files/stylesheet.css"/>
+<x:WindowHeight>8835</x:WindowHeight>
+<x:WindowWidth>14220</x:WindowWidth>
+<x:WindowTopX>480</x:WindowTopX>
+<x:WindowTopY>60</x:WindowTopY>
+<x:ActiveSheet>0</x:ActiveSheet>
+<x:ProtectStructure>False</x:ProtectStructure>
+<x:ProtectWindows>False</x:ProtectWindows>
+</x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=3D0>
+<frame src=3D"excel_files/Net+Asset+Value+Summary+-+VP+IQ.htm" name=3D"frSheet">
+<frame src=3D"excel_files/tabstrip.htm" name=3D"frTabs" marginwidth=3D0 marginheight=3D0>
+<noframes>
+<body>
+<p>This page uses frames, but your browser doesn't support them.</p>
+</body>
+</noframes>
+</frameset>
+</html>
+------=_NextPart_01C3AACE.2206ED10
+Content-Location: http://localhost/excel_files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="utf-8"
+
+tr
+{mso-height-source:auto;}
+col
+{mso-width-source:auto;}
+br
+{mso-data-placement:same-cell;}
+.style0
+{mso-number-format:General;
+text-align:general;
+vertical-align:top;
+white-space:nowrap;
+mso-rotate:0;
+mso-background-source:auto;
+mso-pattern:auto;
+color:windowtext;
+font-size:10.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Arial;
+mso-generic-font-family:auto;
+mso-font-charset:0;
+border:none;
+mso-protection:locked visible;
+mso-style-name:Normal;
+mso-style-id:0;}
+td
+{mso-style-parent:style0;
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+mso-ignore:padding;
+color:windowtext;
+font-size:10.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Arial;
+mso-generic-font-family:auto;
+mso-font-charset:0;
+mso-number-format:General;
+text-align:general;
+vertical-align:top;
+border:none;
+mso-background-source:auto;
+mso-pattern:auto;
+mso-protection:locked visible;
+white-space:nowrap;
+mso-rotate:0;}
+
+.xl46
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial Unicode MS;
+vertical-align:top;
+padding-left:3.8pt;
+padding-right:3.8pt;
+}
+.xl35
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"dd\\-mmm\\-yyyy\;\@";
+text-align:right;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl53
+{mso-style-parent:style0;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+vertical-align:top;
+}
+.xl27
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+text-align:left;
+vertical-align:middle;
+}
+.xl43
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\#\,\#\#0\.000%\;\\\(\#\,\#\#0\.000%\\\)";
+text-align:right;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl32
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial Unicode MS;
+text-align:left;
+vertical-align:middle;
+}
+.xl31
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-weight:700;
+font-family:Arial;
+mso-number-format:"\@";
+text-align:left;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl50
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-weight:700;
+font-family:Arial;
+vertical-align:top;
+}
+.xl26
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\@";
+text-align:left;
+vertical-align:middle;
+}
+.xl60
+{mso-style-parent:style0;
+white-space:normal;
+text-align:left;
+font-weight:700;
+font-style:italic;
+color:#999999;
+}
+.xl44
+{mso-style-parent:style0;
+color:#FF0000;
+font-size:10.0pt;
+font-family:Arial;
+text-align:right;
+vertical-align:top;
+}
+.xl45
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial Unicode MS;
+text-align:left;
+vertical-align:top;
+}
+.xl52
+{mso-style-parent:style0;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+mso-number-format:"\@";
+vertical-align:middle;
+padding-top:11.3pt;
+}
+.xl54
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+mso-number-format:"\@";
+vertical-align:middle;
+padding-top:11.3pt;
+}
+.xl34
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\@";
+text-align:left;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl28
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+text-align:left;
+vertical-align:top;
+}
+.xl38
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\#0";
+text-align:left;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl49
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-weight:700;
+font-family:Arial;
+mso-number-format:"\@";
+vertical-align:middle;
+padding-top:1.5pt;
+}
+.xl48
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+vertical-align:middle;
+}
+.xl51
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-weight:700;
+font-family:Arial;
+mso-number-format:"\@";
+vertical-align:middle;
+padding-top:1.5pt;
+}
+.xl55
+{mso-style-parent:style0;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+mso-number-format:"General";
+vertical-align:middle;
+padding-top:11.3pt;
+}
+.xl36
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+text-align:right;
+vertical-align:top;
+}
+.xl41
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\#\,\#\#0\.000\;\\\(\#\,\#\#0\.000\\\)";
+text-align:right;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl42
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\#\,\#\#0\.000%\;\\\(\#\,\#\#0\.000%\\\)";
+text-align:right;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl37
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"dd\\-mmm\\-yyyy\;\@";
+text-align:right;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl29
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-weight:700;
+font-family:Arial;
+mso-number-format:"\@";
+text-align:left;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl58
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial Unicode MS;
+vertical-align:top;
+}
+.xl59
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial Unicode MS;
+vertical-align:top;
+}
+.xl25
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+text-align:left;
+vertical-align:top;
+}
+.xl56
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+mso-number-format:"General";
+vertical-align:middle;
+padding-top:11.3pt;
+}
+.xl33
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\@";
+text-align:left;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl24
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\@";
+text-align:left;
+vertical-align:middle;
+}
+.xl40
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\#\,\#\#0\.000\;\\\(\#\,\#\#0\.000\\\)";
+text-align:right;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl39
+{mso-style-parent:style0;
+white-space:nowrap;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial;
+mso-number-format:"\#0";
+text-align:left;
+vertical-align:top;
+border-left:0.8pt none #CCCCCC;
+border-top:0.8pt none #CCCCCC;
+border-right:0.8pt none #CCCCCC;
+border-bottom:0.8pt none #CCCCCC;
+padding-left:3.8pt;
+padding-top:2.3pt;
+padding-right:3.8pt;
+padding-bottom:2.3pt;
+}
+.xl57
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:8.0pt;
+font-family:Arial;
+vertical-align:top;
+}
+.xl47
+{mso-style-parent:style0;
+white-space:normal;
+color:#000000;
+font-size:10.0pt;
+font-family:Arial Unicode MS;
+vertical-align:middle;
+}
+.xl30
+{mso-style-parent:style0;
+color:#000000;
+font-size:10.0pt;
+font-weight:700;
+font-family:Arial;
+text-align:left;
+vertical-align:top;
+}
+
+------=_NextPart_01C3AACE.2206ED10
+Content-Location: http://localhost/excel_files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 10">
+<link id=3DMain-File rel=3DMain-File href=3D"../excel.htm">
+<![if IE]>
+<base href=3D"http://localhost/excel_files/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {text-decoration:none;color:#000000;font-size:9pt;}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+<tr>
+<td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"Net+Asset+Value+Summary+-+VP+IQ.htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Net Asset Value Summary - VP IQ</font></a>&nbsp;</small></small></b></td>
+</tr>
+</table>
+</body>
+</html>
+------=_NextPart_01C3AACE.2206ED10
+Content-Location: 	http://localhost/excel_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<o:MainFile HRef=3D"../excel.htm"/>
+<o:File HRef=3D"stylesheet.css"/>
+<o:File HRef=3D"tabstrip.htm"/>
+<o:File HRef=3D"filelist.xml"/>
+<o:File HRef=3D"Net+Asset+Value+Summary+-+VP+IQ.htm"/>
+</xml>
+
+
+------=_NextPart_01C3AACE.2206ED10
+Content-Location: http://localhost/excel_files/Net+Asset+Value+Summary+-+VP+IQ.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 10">
+<link id=3DMain-File rel=3DMain-File href=3D"../excel.htm">
+<link rel=3DFile-List href=3D"filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"editdata.mso">
+<![if IE]>
+<base href=3D"http://localhost/excel_files/Net+Asset+Value+Summary+-+VP+IQ.htm" id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3D"stylesheet.css">
+<style>
+<!--table
+{mso-displayed-decimal-separator:"\.";
+mso-displayed-thousand-separator:"\,";}
+@page
+{margin:1.0in .75in 1.0in .75in;
+mso-header-margin:.5in;
+mso-footer-margin:.5in;}
+
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+{
+if (parent.window.g_iIEVer>=3D4) {
+if (parent.document.readyState=3D=3D"complete"
+&& parent.frames['frTabs'].document.readyState=3D=3D"complete")
+parent.fnSetActiveSheet(0);
+else
+window.setTimeout("fnUpdateTabs();",150);
+}
+}
+if (window.name!=3D"frSheet")
+window.location.replace("../excel.htm");
+else
+fnUpdateTabs();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+<x:WorksheetOptions>
+<x:DisplayGridlines/>
+<x:ProtectContents>False</x:ProtectContents>
+<x:ProtectObjects>False</x:ProtectObjects>
+<x:ProtectScenarios>False</x:ProtectScenarios>
+</x:WorksheetOptions>
+</xml><![endif]-->
+</head>
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"ProgId" content=3D"Excel.Sheet">
+<meta name=3D"Generator" content=3D"Microsoft Excel 9">
+<style>
+<!--table
+{mso-displayed-decimal-separator:"\.";
+mso-displayed-thousand-separator:"\,";}
+@page
+{margin:1.0in .75in 1.0in .75in;
+mso-header-margin:.5in;
+mso-footer-margin:.5in;}
+tr
+{mso-height-source:auto;}
+col
+{mso-width-source:auto;}
+br
+{mso-data-placement:same-cell;}
+.style0
+{mso-number-format:General;
+text-align:general;
+vertical-align:top;
+white-space:nowrap;
+mso-rotate:0;
+mso-background-source:auto;
+mso-pattern:auto;
+color:windowtext;
+font-size:10.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Arial;
+mso-generic-font-family:auto;
+mso-font-charset:0;
+border:none;
+mso-protection:locked visible;
+mso-style-name:Normal;
+mso-style-id:0;}
+td
+{mso-style-parent:style0;
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+mso-ignore:padding;
+color:windowtext;
+font-size:10.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Arial;
+mso-generic-font-family:auto;
+mso-font-charset:0;
+mso-number-format:General;
+text-align:general;
+vertical-align:top;
+border:none;
+mso-background-source:auto;
+mso-pattern:auto;
+mso-protection:locked visible;
+white-space:nowrap;
+mso-rotate:0;}
+-->
+</style>
+<!--[if gte mso 9]>
+<xml>
+<x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions>
+</xml><![endif]-->
+</head>
+<body style=3D"height:100%">
+<table >
+<tr >
+<td class=3Dxl26 colspan=3D6>
+<span class=3Dxl25>Report Name:</span>
+<span class=3Dxl25>Net Asset Value Summary - VP IQ</span>
+</td>
+<td class=3Dxl27>
+</td>
+</tr>
+<tr >
+<td class=3Dxl26 colspan=3D6>
+<span class=3Dxl25>From Date:</span>
+<span class=3Dxl25>01-Aug-2025</span>
+<span class=3Dxl25>To Date:</span>
+<span class=3Dxl25>04-Aug-2025</span>
+</td>
+<td class=3Dxl27>
+</td>
+</tr>
+<tr >
+<td class=3Dxl26 colspan=3D6>
+<span class=3Dxl25>Run ID:</span>
+<span class=3Dxl25>S-691-844-262</span>
+</td>
+<td class=3Dxl27>
+</td>
+</tr>
+<tr >
+<td class=3Dxl26 colspan=3D6>
+<span class=3Dxl25>Multi View:</span>
+<span class=3Dxl25>FUND ACCOUNTING VIEW</span>
+</td>
+<td class=3Dxl27>
+</td>
+</tr>
+<tr >
+<td class=3Dxl27 colspan=3D6>
+</td>
+</tr>
+</table>
+<table >
+<tr >
+<td class=3Dxl31>
+<span class=3Dxl30>Client Entity ID</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Account Number</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Account Name</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Account Status</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Account Base Currency</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Valuation Period-End Date</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Class</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Class Description</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Class of Shares NASDAQ code</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Outstanding Shares/Par</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Dividend Earning Shares</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Net Assets - Class</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Net Assets</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Class % of TNA</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Net Assets - Previous</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Net Asset Change</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>% Change in Net Assets</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Quoted NAV for Mutual Funds - Previous</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>Quoted NAV for Mutual Funds</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>NAV Change</span>
+</td>
+<td class=3Dxl31>
+<span class=3Dxl30>% Change in NAV</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl34>
+<span class=3Dxl25>F_VMF</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>74200054500</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>VP MULT-STRAT</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>FINAL</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>USD</span>
+</td>
+<td class=3Dxl37>
+<span class=3Dxl36>45870</span>
+</td>
+<td class=3Dxl39>
+<span class=3Dxl25>0</span>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22762913.685000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22762913.631000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>209367574.870000</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>210460800.47</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl44>-1093225.6</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl44>-0.00519443809753937</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.2442</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.197700000000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl44>-0.0465</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl44>-0.00503018108651911</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl34>
+<span class=3Dxl25>F_VMF</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>74200054500</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>VP MULT-STRAT</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>FINAL</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>USD</span>
+</td>
+<td class=3Dxl37>
+<span class=3Dxl36>45871</span>
+</td>
+<td class=3Dxl39>
+<span class=3Dxl25>0</span>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22762913.685000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22762913.631000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>209362271.510000</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>209367574.87</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl44>-5303.36</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl44>-2.53303788960299e-05</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.1977</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.197500000000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl44>-0.0002</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl44>-2.17445665764267e-05</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl34>
+<span class=3Dxl25>F_VMF</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>74200054500</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>VP MULT-STRAT</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>FINAL</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>USD</span>
+</td>
+<td class=3Dxl37>
+<span class=3Dxl36>45872</span>
+</td>
+<td class=3Dxl39>
+<span class=3Dxl25>0</span>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22762913.685000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22762913.631000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>209356968.150000</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>209362271.51</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl44>-5303.36</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl44>-2.5331020540378e-05</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.1975</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.197300000000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl44>-0.0002</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl44>-2.17450394128839e-05</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl34>
+<span class=3Dxl25>F_VMF</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>74200054500</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>VP MULT-STRAT</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>FINAL</span>
+</td>
+<td class=3Dxl34>
+<span class=3Dxl25>USD</span>
+</td>
+<td class=3Dxl37>
+<span class=3Dxl36>45873</span>
+</td>
+<td class=3Dxl39>
+<span class=3Dxl25>0</span>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl34>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22744461.332000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>22744461.278000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>210209036.660000</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl36>0</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>209356968.15</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>852068.51</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl36>0.00406993145501377</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.1973</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>9.242200000000</span>
+</td>
+<td class=3Dxl41>
+<span class=3Dxl36>0.0449</span>
+</td>
+<td class=3Dxl43>
+<span class=3Dxl36>0.00488186750459374</span>
+</td>
+</tr>
+</table>
+<table class=3Dxl58>
+<tr >
+<td class=3Dxl59>
+<table >
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl51 colspan=3D6>
+<span class=3Dxl50>J.P. Morgan Notice:</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>The information provided in this report is subject to the applicable agreement between us and our customer and is intended to be utilised by our customer for the purposes expressly stated in that agreement.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>It may not be relied on by any other person for any other purpose. Nothing in this report shall be construed as investment, FX, legal, accounting, financial, regulatory or taxation advice.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl56 colspan=3D6>
+<span class=3Dxl53>J.P. Morgan specifically disclaims any direct or indirect liability for any reliance on or use of the information contained in this report for any purpose (other than by our customer for the purposes expressly contemplated by the applicable agreement between us and our customer), including without limitation for trading, investment, hedging or risk management purposes.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>Any price or other information contained herein is not warranted as to completeness, currency or accuracy and is subject to change without notice.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl56 colspan=3D6>
+<span class=3Dxl53>Where the report references or includes prices, such prices may be different from the prices used by J.P. Morgan&#39;s divisions or affiliated companies for internal or trading purposes and may not reflect the actual proceeds which may be received on the sale or other disposition of a security or other holding.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl56 colspan=3D6>
+<span class=3Dxl53>This report may contain data licensed from third party sources and use of such data is subject to such restrictions imposed by the third party sources. Any redistribution of such data or this report may require a separate license from the third party sources.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>This report is strictly confidential. The unauthorised disclosure, use, dissemination or copying of this information is prohibited without the prior written consent of J.P. Morgan.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>Where an indicative NAV report is provided, such report is an interim report and is provided on an &quot;as is&quot; basis for convenience only.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>The interim report has been prepared in reliance on information which may not have been verified and may not be accurate due to mis-postings, delays in updating account records, incomplete data and other causes.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>The recipient must inform J.P. Morgan within agreed service level timeframes or as soon as possible (if no timeframes are agreed) of any actual or suspected misstatement in this report.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+<tr >
+<td class=3Dxl54 colspan=3D6>
+<span class=3Dxl53>Copyright J.P. Morgan Chase &amp; Co. 2025. All rights reserved.</span>
+</td>
+</tr>
+<tr >
+<td class=3Dxl48 colspan=3D6>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+------=_NextPart_01C3AACE.2206ED10--

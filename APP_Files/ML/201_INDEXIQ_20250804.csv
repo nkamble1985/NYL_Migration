@@ -1,0 +1,20 @@
+﻿201. Collateral Position by Agreement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Position as of :,,04-Aug-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,(Positive Position Denotes Margin Received by Principal),,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agreement,Collat AgreementID,Principal,GCI,Coper ID,MID,CTID,Management Center Description,NAICSCode,In Transit ,Collateral Terms Type,Margin Type,Collateral Product,Collateral Issue,Ccy,Notional,Price,Factor,Interest Rate,Total Haircut,CollateralHaircut,Fx Haircut,Standard Haircut,Wrong Way Risk,Concentration Limit,Market Value,Adjusted Market Value in Local Ccy,Agmt Ccy,Adjusted Market Value in Agmt Ccy in Base Ccy,Maturity Date,Triparty Y/N,Rehype Y/N
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O MAINSTAY VP FUNDS TRUST - MAINSTAY VP IQ HEDGE MULTI-STRATEGY PORTFOLIO,INDEXIQ ADVISO..PORT CSA,Merrill Lynch International,349571988,410167995,1087661,1087661,,525910,Settled,Reg VM,Variation Margin,Cash,,USD,"450,000.00 ",,,,100.00 ,100.00 ,100.00 ,100.00 ,100.00 ,100.00 ,"450,000.00 ","450,000.00 ",USD,"450,000.00 ",,Y,N
+,,,,,,,,,,,,,,,,,,,,,,,,,Total Margin Settled ,,,"450,000.00 ",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,Total Margin,,,"450,000.00 ",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O NEW YORK LIFE INVESTMENTS ETF TRUST - NYLI HEDGE MULTI-STRATEGY TRACKER ETF A/C QAI:US,INDEXIQ ADVI..QAI:US CSA,Merrill Lynch International,339463083,214781335,626636,626636,,525910,Settled,Reg VM,Variation Margin,Cash,,USD,"516,000.00 ",,,,100.00 ,100.00 ,100.00 ,100.00 ,100.00 ,100.00 ,"516,000.00 ","516,000.00 ",USD,"516,000.00 ",,Y,N
+,,,,,,,,,,,,,,,,,,,,,,,,,Total Margin Settled ,,,"516,000.00 ",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,Total Margin,,,"516,000.00 ",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,Total Margin in USD Equivalent,,,"966,000.00 ",,,
+"Aug 5, 2025",,12:32 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
