@@ -1,0 +1,2 @@
+COB Date,Account,Account Name,Trade Type,Buy/ Sell,Quantity,Market,Product,Contract Month,Contract Year,P/C,Strike Price,Contract Currency,Trade Price,Executing Broker,Clearing + Execution Commission (local),Total Fees (local),Option Premium (local),Trade Date
+"20250807","00102702","","New Trade","B","2","CME (IMM)","EMINI S&P 500","09","25","","","USD","6389.75000000","GOLDMAN SACHS","-1.80","-2.80","0.00","20250807"
