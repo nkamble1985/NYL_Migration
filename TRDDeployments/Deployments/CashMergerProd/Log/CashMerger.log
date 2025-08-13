@@ -1,0 +1,50 @@
+8/6/2025 2:49:38 PM - INFO: ExcelMerger started.
+8/6/2025 2:49:39 PM - INFO: Destination file path: C:\Deployments\CashMergerProd\File\Daily Cash_08.06.2025 02.49.xlsx
+8/6/2025 2:49:46 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: NYLI_Summary_08052025.xls
+8/6/2025 2:49:46 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: NYLI Daily Settled Cash Balances_06 Aug 2025.xls
+8/6/2025 2:49:46 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: IQ_ETFs_Projected_Cash_Statement_06082025*.csv
+8/6/2025 2:49:47 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: IQ_ETFs_Custody_Valuation_06082025*.csv
+8/6/2025 2:49:48 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: Unsettled Trades_06 Aug 2025.xls
+8/6/2025 2:49:48 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\EZE with pattern: Historical Trade Export_20250806*.csv
+8/6/2025 2:49:48 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\QAI with pattern: Detailed Net Asset Valuation - VP IQ_20250806.xls
+8/6/2025 2:49:49 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Cash_Projections_20250806.csv
+8/6/2025 2:49:49 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Cash_Projections_20250806.csv
+8/6/2025 2:49:49 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Priced_Positions_20250806.csv
+8/6/2025 2:49:50 PM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Outstanding_Trades_20250806.csv
+8/6/2025 2:50:08 PM - INFO: Processed file saved to: C:\Deployments\CashMergerProd\File\Daily Cash_08.06.2025 02.49.xlsx
+8/6/2025 2:50:08 PM - INFO: File copied to shared location: C:\Gravitas\SharedFiles\Daily Cash_08.06.2025 02.49.xlsx
+8/6/2025 2:50:36 PM - ERROR: ExcelMerger encountered an error: Could not find document
+8/7/2025 10:11:32 AM - INFO: Using specified date: 8/6/2025
+8/7/2025 10:11:32 AM - INFO: ExcelMerger started.
+8/7/2025 10:11:32 AM - INFO: Destination file path: C:\Deployments\CashMergerProd\File\Daily Cash_08.06.2025 10.11.xlsx
+8/7/2025 10:11:39 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: NYLI_Summary_08052025.xls
+8/7/2025 10:11:40 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: NYLI Daily Settled Cash Balances_06 Aug 2025.xls
+8/7/2025 10:11:40 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: IQ_ETFs_Projected_Cash_Statement_06082025*.csv
+8/7/2025 10:11:41 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: IQ_ETFs_Custody_Valuation_06082025*.csv
+8/7/2025 10:11:42 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: Unsettled Trades_06 Aug 2025.xls
+8/7/2025 10:11:42 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\EZE with pattern: Historical Trade Export_20250806*.csv
+8/7/2025 10:11:42 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\QAI with pattern: Detailed Net Asset Valuation - VP IQ_20250806.xls
+8/7/2025 10:11:43 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Cash_Projections_20250806.csv
+8/7/2025 10:11:43 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Cash_Projections_20250806.csv
+8/7/2025 10:11:43 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Priced_Positions_20250806.csv
+8/7/2025 10:11:44 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Outstanding_Trades_20250806.csv
+8/7/2025 10:12:01 AM - INFO: Processed file saved to: C:\Deployments\CashMergerProd\File\Daily Cash_08.06.2025 10.11.xlsx
+8/7/2025 10:12:01 AM - INFO: File copied to shared location: C:\Gravitas\SharedFiles\Daily Cash_08.06.2025 10.11.xlsx
+8/7/2025 10:12:30 AM - ERROR: ExcelMerger encountered an error: Could not find document
+8/7/2025 10:23:44 AM - INFO: Using specified date: 8/6/2025
+8/7/2025 10:23:44 AM - INFO: ExcelMerger started.
+8/7/2025 10:23:44 AM - INFO: Destination file path: C:\Deployments\CashMergerProd\File\Daily Cash_08.06.2025 10.23.xlsx
+8/7/2025 10:23:49 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: NYLI_Summary_08052025.xls
+8/7/2025 10:23:49 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: NYLI Daily Settled Cash Balances_06 Aug 2025.xls
+8/7/2025 10:23:49 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: IQ_ETFs_Projected_Cash_Statement_06082025*.csv
+8/7/2025 10:23:50 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: IQ_ETFs_Custody_Valuation_06082025*.csv
+8/7/2025 10:23:51 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\BNY with pattern: Unsettled Trades_06 Aug 2025.xls
+8/7/2025 10:23:51 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\EZE with pattern: Historical Trade Export_20250806*.csv
+8/7/2025 10:23:51 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\QAI with pattern: Detailed Net Asset Valuation - VP IQ_20250806.xls
+8/7/2025 10:23:51 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Cash_Projections_20250806.csv
+8/7/2025 10:23:52 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Cash_Projections_20250806.csv
+8/7/2025 10:23:52 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Priced_Positions_20250806.csv
+8/7/2025 10:23:53 AM - INFO: Searching for files in: C:\Gravitas\VendorFiles\JPM with pattern: Outstanding_Trades_20250806.csv
+8/7/2025 10:24:11 AM - INFO: Processed file saved to: C:\Deployments\CashMergerProd\File\Daily Cash_08.06.2025 10.23.xlsx
+8/7/2025 10:24:11 AM - INFO: File copied to shared location: C:\Gravitas\SharedFiles\DailyCash\Daily Cash_08.06.2025 10.23.xlsx
+8/7/2025 10:24:40 AM - ERROR: ExcelMerger encountered an error: Could not find document
