@@ -1,0 +1,36 @@
+<data>
+  <advanced>
+    <atomic_rebuild>1</atomic_rebuild>
+    <max_parallel_limit>16</max_parallel_limit>
+  </advanced>
+  <database>
+    <cloud>1</cloud>
+    <cloud_type>rds</cloud_type>
+    <compressed>1</compressed>
+    <database_name>FactSetDataFeed</database_name>
+    <dsn>FDSLoader</dsn>
+    <load_executable_path>C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bcp.EXE</load_executable_path>
+    <mssql>
+      <character_set>unicode</character_set>
+    </mssql>
+    <pass>9d35371b9ca3469a7a2f0f92a6ce8f42</pass>
+    <server_name>inviiqresearch-sqlserver-standard-dev.ckryme4eosdx.us-east-1.rds.amazonaws.com</server_name>
+    <type>mssql</type>
+    <user>Factsetfeeder</user>
+    <using_bulkinsert>0</using_bulkinsert>
+  </database>
+  <download_only>0</download_only>
+  <files>
+    <local_basedir>C:/FactSet/FDSLoader</local_basedir>
+  </files>
+  <proxy>
+    <custom_setting>NONE</custom_setting>
+  </proxy>
+  <server>
+    <auth_type>otp</auth_type>
+    <protocol>https</protocol>
+    <serial>1399880</serial>
+    <user>INDEX_IQ</user>
+  </server>
+  <version>2.13</version>
+</data>

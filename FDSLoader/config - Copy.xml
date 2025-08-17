@@ -1,0 +1,41 @@
+<data>
+  <advanced>
+    <atomic_rebuild>1</atomic_rebuild>
+    <max_parallel_limit>16</max_parallel_limit>
+  </advanced>
+  <database>
+    <cloud>1</cloud>
+    <cloud_type>rds</cloud_type>
+    <compressed>1</compressed>
+    <database_name>FactSetDataFeed</database_name>
+    <dsn>FDSLoader</dsn>
+    <load_executable_path>C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bcp.EXE</load_executable_path>
+    <mssql>
+      <character_set>unicode</character_set>
+    </mssql>
+    <pass>e6d14c0e5e60a8c5b8fdb025d3ec7c3a</pass>
+    <server_name>inviiqresearch-sqlserver-standard-dev.ckryme4eosdx.us-east-1.rds.amazonaws.com</server_name>
+    <type>mssql</type>
+    <user>Factsetfeeder</user>
+    <using_bulkinsert>0</using_bulkinsert>
+  </database>
+  <download_only>0</download_only>
+  <files>
+    <local_basedir>C:/FactSet/FDSLoader</local_basedir>
+  </files>
+  <proxy>
+    <custom_setting>CUSTOM</custom_setting>
+    <password>3ab89b09913525d08a5ab9a858139136dfee89e1a72a4a1f21dc44ab0b844fbc</password>
+    <port>443</port>
+    <protocol>BASIC</protocol>
+    <server>dev.factset-fds.ws.newyorklife.com/r/factset-fds-pxy</server>
+    <username>dc-m8eklpvgriq8e0rjocyyxh92l</username>
+  </proxy>
+  <server>
+    <auth_type>otp</auth_type>
+    <protocol>https</protocol>
+    <serial>1399880</serial>
+    <user>INDEX_IQ</user>
+  </server>
+  <version>2.13</version>
+</data>

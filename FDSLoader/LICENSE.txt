@@ -1,0 +1,531 @@
+Table Of Contents
+i. The "Artistic License"
+ii. Packages under "Artistic License"
+iii. Artistic License 2.0
+iv. Packages under "Artistic License 2.0" (Dispatch.pm)
+v. The MIT License (MIT)
+vi. Packages under "The MIT License (MIT)" (Curl.pm)
+vii. Libssh2 license
+viii. zlib license
+ix. OpenSSL license (Apache-style license)
+
+-------------------------------------------------------------------------
+
+
+			 The "Artistic License"
+
+				Preamble
+
+The intent of this document is to state the conditions under which a
+Package may be copied, such that the Copyright Holder maintains some
+semblance of artistic control over the development of the package,
+while giving the users of the package the right to use and distribute
+the Package in a more-or-less customary fashion, plus the right to make
+reasonable modifications.
+
+Definitions:
+
+	"Package" refers to the collection of files distributed by the
+	Copyright Holder, and derivatives of that collection of files
+	created through textual modification.
+
+	"Standard Version" refers to such a Package if it has not been
+	modified, or has been modified in accordance with the wishes
+	of the Copyright Holder as specified below.
+
+	"Copyright Holder" is whoever is named in the copyright or
+	copyrights for the package.
+
+	"You" is you, if you're thinking about copying or distributing
+	this Package.
+
+	"Reasonable copying fee" is whatever you can justify on the
+	basis of media cost, duplication charges, time of people involved,
+	and so on.  (You will not be required to justify it to the
+	Copyright Holder, but only to the computing community at large
+	as a market that must bear the fee.)
+
+	"Freely Available" means that no fee is charged for the item
+	itself, though there may be fees involved in handling the item.
+	It also means that recipients of the item may redistribute it
+	under the same conditions they received it.
+
+1. You may make and give away verbatim copies of the source form of the
+Standard Version of this Package without restriction, provided that you
+duplicate all of the original copyright notices and associated disclaimers.
+
+2. You may apply bug fixes, portability fixes and other modifications
+derived from the Public Domain or from the Copyright Holder.  A Package
+modified in such a way shall still be considered the Standard Version.
+
+3. You may otherwise modify your copy of this Package in any way, provided
+that you insert a prominent notice in each changed file stating how and
+when you changed that file, and provided that you do at least ONE of the
+following:
+
+    a) place your modifications in the Public Domain or otherwise make them
+    Freely Available, such as by posting said modifications to Usenet or
+    an equivalent medium, or placing the modifications on a major archive
+    site such as uunet.uu.net, or by allowing the Copyright Holder to include
+    your modifications in the Standard Version of the Package.
+
+    b) use the modified Package only within your corporation or organization.
+
+    c) rename any non-standard executables so the names do not conflict
+    with standard executables, which must also be provided, and provide
+    a separate manual page for each non-standard executable that clearly
+    documents how it differs from the Standard Version.
+
+    d) make other distribution arrangements with the Copyright Holder.
+
+4. You may distribute the programs of this Package in object code or
+executable form, provided that you do at least ONE of the following:
+
+    a) distribute a Standard Version of the executables and library files,
+    together with instructions (in the manual page or equivalent) on where
+    to get the Standard Version.
+
+    b) accompany the distribution with the machine-readable source of
+    the Package with your modifications.
+
+    c) give non-standard executables non-standard names, and clearly
+    document the differences in manual pages (or equivalent), together
+    with instructions on where to get the Standard Version.
+
+    d) make other distribution arrangements with the Copyright Holder.
+
+5. You may charge a reasonable copying fee for any distribution of this
+Package.  You may charge any fee you choose for support of this
+Package.  You may not charge a fee for this Package itself.  However,
+you may distribute this Package in aggregate with other (possibly
+commercial) programs as part of a larger (possibly commercial) software
+distribution provided that you do not advertise this Package as a
+product of your own.  You may embed this Package's interpreter within
+an executable of yours (by linking); this shall be construed as a mere
+form of aggregation, provided that the complete Standard Version of the
+interpreter is so embedded.
+
+6. The scripts and library files supplied as input to or produced as
+output from the programs of this Package do not automatically fall
+under the copyright of this Package, but belong to whoever generated
+them, and may be sold commercially, and may be aggregated with this
+Package.  If such scripts or library files are aggregated with this
+Package via the so-called "undump" or "unexec" methods of producing a
+binary executable image, then distribution of such an image shall
+neither be construed as a distribution of this Package nor shall it
+fall under the restrictions of Paragraphs 3 and 4, provided that you do
+not represent such an executable image as a Standard Version of this
+Package.
+
+7. C subroutines (or comparably compiled subroutines in other
+languages) supplied by you and linked into this Package in order to
+emulate subroutines and variables of the language defined by this
+Package shall not be considered part of this Package, but are the
+equivalent of input as in Paragraph 6, provided these subroutines do
+not change the language in any way that would cause it to fail the
+regression tests for the language.
+
+8. Aggregation of this Package with a commercial distribution is always
+permitted provided that the use of this Package is embedded; that is,
+when no overt attempt is made to make this Package's interfaces visible
+to the end user of the commercial distribution.  Such use shall not be
+construed as a distribution of this Package.
+
+9. The name of the Copyright Holder may not be used to endorse or promote
+products derived from this software without specific prior written permission.
+
+10. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+				The End
+
+http://dev.perl.org/licenses/artistic.html
+---------------
+
+http://search.cpan.org/~rschupp/PAR-Packer-1.029/lib/PAR/Packer.pm
+  Copyright 2004-2010 by Audrey Tang <cpan@audreyt.org>.
+  This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+  See http://www.perl.com/perl/misc/Artistic.html
+
+https://metacpan.org/pod/Data::Compare
+  Copyright (c) 1999-2001 Fabien Tassin. All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+  Some parts copyright 2003 - 2014 David Cantrell.
+
+http://search.cpan.org/~smueller/Data-Dumper-2.154/Dumper.pm
+  Gurusamy Sarathy gsar@activestate.com
+  Copyright (c) 1996-2014 Gurusamy Sarathy. All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~rjbs/Time-HiRes-1.9728/HiRes.pm
+  D. Wegscheid <wegscd@whirlpool.com> R. Schertler <roderick@argon.org> J. Hietaniemi <jhi@iki.fi> G. Aas <gisle@aas.no>
+  Copyright (c) 1996-2002 Douglas E. Wegscheid. All rights reserved.
+  Copyright (c) 2002, 2003, 2004, 2005, 2006, 2007, 2008 Jarkko Hietaniemi. All rights reserved.
+  Copyright (C) 2011, 2012, 2013 Andrew Main (Zefram) <zefram@fysh.org>
+  This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~mschilli/Log-Log4perl-1.46/lib/Log/Log4perl.pm
+  http://github.com/mschilli/log4perl
+  Contributors (in alphabetical order): Ateeq Altaf, Cory Bennett, Jens Berthold, Jeremy Bopp, Hutton Davidson, Chris R. Donnelly, Matisse Enzer, Hugh Esco, Anthony Foiani, James FitzGibbon, Carl Franks, Dennis Gregorovic, Andy Grundman, Paul Harrington, Alexander Hartmaier, David Hull, Robert Jacobson, Jason Kohles, Jeff Macdonald, Markus Peter, Brett Rann, Peter Rabbitson, Erik Selberg, Aaron Straup Cope, Lars Thegler, David Viner, Mac Yang.
+  Copyright 2002-2013 by Mike Schilli <m@perlmeister.com> and Kevin Goess <cpan@goess.org>.
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~scresto/Sys-MemInfo-0.98/MemInfo.pm
+  Sylvain Cresto <scresto@gmail.com>
+  Thanks to Laurent Dufour and Wilson Snyder.
+  Copyright (C) 2005, 2006, 2014 - Sylvain Cresto
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~mblaz/Win32-DriveInfo-0.06/DriveInfo.pm
+  Mike Blazer <blazer@mail.nevalink.ru>
+  Copyright (C) 1998-2001 by Mike Blazer. All rights reserved.
+  This package is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~toddr/XML-Parser-2.44/Parser.pm
+  Larry Wall <larry@wall.org> wrote version 1.0.
+  Clark Cooper <coopercc@netheaven.com> picked up support, changed the API for this version (2.x), provided documentation, and added some standard package features.
+  Matt Sergeant <matt@sergeant.org> is now maintaining XML::Parser
+
+http://search.cpan.org/~grantm/XML-Simple-2.22/lib/XML/Simple.pm
+  Copyright 1999-2004 Grant McLean <grantm@cpan.org>
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~phred/Archive-Zip-1.56/lib/Archive/Zip.pm
+  Some parts copyright 2006 - 2012 Adam Kennedy.
+  Some parts copyright 2005 Steve Peters.
+  Original work copyright 2000 - 2004 Ned Konz.
+  This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~dankogai/Encode-2.82/Encode.pm
+  Copyright 2002-2014 Dan Kogai <dankogai@cpan.org>.
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~mshelor/Digest-SHA-5.95/lib/Digest/SHA.pm
+  ACKNOWLEDGMENTS: Gisle Aas,H. Merijn Brand,Sean Burke,Chris Carey,Alexandr Ciornii,Jim Doble,Thomas Drugeon,Julius Duque,Jeffrey Friedl
+        Robert Gilmour,Brian Gladman,Jarkko Hietaniemi,Adam Kennedy,Mark Lawrence,Andy Lester,Alex Muntada
+        Steve Peters,Chris Skiscim,Martin Thurn,Gunnar Wolf,Adam Woodbury
+  Copyright (C) 2003-2015 Mark Shelor
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+ 
+http://search.cpan.org/~makamaka/JSON-2.90/lib/JSON.pm
+  Makamaka Hannyaharamitu, <makamaka[at]cpan.org>
+  JSON::XS was written by Marc Lehmann <schmorp[at]schmorp.de>
+  The release of this new version owes to the courtesy of Marc Lehmann.
+
+http://search.cpan.org/~rjbs/PathTools-3.62/Cwd.pm
+  Maintained by Ken Williams <KWILLIAMS@cpan.org>
+  Copyright (c) 2004 by the Perl 5 Porters. All rights reserved.
+  This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+  Portions of the C code in this library are copyright (c) 1994 by the Regents of the University of California. All rights reserved. The license on this code is compatible with the licensing of the rest of the distribution - please see the source code in Cwd.xs for the details.
+
+http://search.cpan.org/~abw/Template-Toolkit-2.26/lib/Template.pm
+  Andy Wardley <abw@wardley.org> http://wardley.org/
+  Copyright (C) 1996-2014 Andy Wardley. All Rights Reserved.
+  This module is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~gaas/HTTP-Cookies-6.01/lib/HTTP/Cookies.pm
+  Copyright 1997-2002 Gisle Aas
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://cpansearch.perl.org/src/SHAY/perl-5.22.1/lib/File/Copy.pm
+  File/Copy.pm. Written in 1994 by Aaron Sherman <ajs@ajs.com>. This
+  source code has been placed in the public domain by the author.
+  Please be kind and preserve the documentation.
+  Additions copyright 1996 by Charles Bailey.  Permission is granted
+  to distribute the revised code under the same terms as Perl itself.
+
+http://search.cpan.org/~mjevans/DBD-ODBC-1.52/ODBC.pm
+  Tim Bunce
+  Jeff Urlwin
+  Thomas K. Wenrich
+  Martin J. Evans
+
+http://search.cpan.org/~pevans/Scalar-List-Utils-1.43/lib/List/Util.pm
+  Copyright (c) 1997-2007 Graham Barr <gbarr@pobox.com>. All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+  Recent additions and current maintenance by Paul Evans, <leonerd@leonerd.org.uk>.
+
+http://search.cpan.org/~jv/Getopt-Long-2.48/lib/Getopt/Long.pm
+  Johan Vromans <jvromans@squirrel.nl>
+
+http://search.cpan.org/~ams/Storable-2.51/Storable.pm
+  ACKNOWLEDGMENTS: Jarkko Hietaniemi <jhi@iki.fi>,Ulrich Pfeifer <pfeifer@charly.informatik.uni-dortmund.de>,Benjamin A. Holzman <bholzman@earthlink.net>
+        Andrew Ford <A.Ford@ford-mason.co.uk>,Gisle Aas <gisle@aas.no>,Jeff Gresham <gresham_jeffrey@jpmorgan.com>
+        Murray Nesbitt <murray@activestate.com>,Marc Lehmann <pcg@opengroup.org>,Justin Banks <justinb@wamnet.com>
+        Jarkko Hietaniemi <jhi@iki.fi> (AGAIN, as perl 5.7.0 Pumpkin!),Salvador Ortiz Garcia <sog@msg.com.mx>,Dominic Dunlop <domo@computer.org>
+        Erik Haugan <erik@solbors.no>,Benjamin A. Holzman <ben.holzman@grantstreet.com>,Reini Urban <rurban@cpanel.net>
+  Storable was written by Raphael Manfredi <Raphael_Manfredi@pobox.com> Maintenance is now done by the perl5-porters <perl5-porters@perl.org>
+
+http://search.cpan.org/~burak/Sys-Info-0.78/lib/Sys/Info.pm
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.12.3 or, at your option, any later version of Perl 5 you may have available.
+
+http://search.cpan.org/~salva/Net-SSH2-0.58/lib/Net/SSH2.pm
+  Copyright (C) 2005 - 2010 by David B. Robins (dbrobins@cpan.org).
+  Copyright (C) 2010 - 2015 by Rafael Kitover (rkitover@cpan.org).
+  Copyright (C) 2011 - 2015 by Salvador Fandiño (salva@cpan.org).
+  All rights reserved.
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.8.0 or, at your option, any later version of Perl 5 you may have available.
+
+http://search.cpan.org/~timb/DBI-1.634/DBI.pm
+  The DBI module is Copyright (c) 1994-2012 Tim Bunce. Ireland. All rights reserved.
+  You may distribute under the terms of either the GNU General Public License or the Artistic License, as specified in the Perl 5.10.0 README file.
+
+http://search.cpan.org/~rse/lcwa-1.0.0/lib/lwp/lib/URI/URL.pm
+  This module is (distantly) based on the wwwurl.pl code in the libwww-perl distribution developed by Roy Fielding <fielding@ics.uci.edu>, as part of the Arcadia project at the University of California, Irvine, with contributions from Brooks Cutter.
+  Gisle Aas <aas@sn.no>, Tim Bunce <Tim.Bunce@ig.co.uk>, Roy Fielding <fielding@ics.uci.edu> and Martijn Koster <m.koster@webcrawler.com> (in English alphabetical order) have collaborated on the complete rewrite for Perl 5, with input from other people on the libwww-perl mailing list.
+  If you have any suggestions, bug reports, fixes, or enhancements, send them to the libwww-perl mailing list at <libwww-perl@ics.uci.edu>.
+  Copyright 1995-1997 Gisle Aas. Copyright 1995 Martijn Koster.
+  This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+  
+http://search.cpan.org/dist/HTTP-ProxyPAC/lib/HTTP/ProxyPAC.pm
+  Copyright (C) 2006, Tatsuhiko Miyagawa <miyagawa@bulknews.net>
+  Copyright (C) 2010, Craig MacKenna <craig@animalhead.com>
+  This module is free software; you may redistribute it and/or modify it under the same terms as Perl 5.10.1.
+
+http://search.cpan.org/~jstowe/TermReadKey-2.37/ReadKey_pm.PL
+  Copyright (C) 1994-1999 Kenneth Albanowski.
+                2001-2005 Jonathan Stowe and others
+                Unlimited distribution and/or modification is allowed as long as this
+                copyright notice remains intact.
+  This module is free software; you can redistribute it and/or modify it
+  under the terms of the Artistic License. For details, see the full
+  text of the license in the file "Artistic" that should have been provided
+  with the version of perl you are using.
+  This program is distributed in the hope that it will be useful, but
+  without any warranty; without even the implied warranty of merchantability
+  or fitness for a particular purpose.
+
+http://search.cpan.org/~lds/Crypt-CBC-2.33/CBC.pm
+  Lincoln Stein, lstein@cshl.org
+  This module is distributed under the ARTISTIC LICENSE using the same terms as Perl itself.
+
+http://search.cpan.org/~ams/Crypt-Twofish-2.17/Twofish.pm
+  Abhijit Menon-Sen <ams@toroid.org>
+  Copyright 2001 Abhijit Menon-Sen.
+  This module is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~riche/File-Path-2.12/lib/File/Path.pm
+  This module is copyright (C) Charles Bailey, Tim Bunce, David Landgren, James Keenan, and Richard Elberger 1995-2015. All rights reserved.
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~garu/Clone-0.39/Clone.pm
+  Copyright 2001-2017 Ray Finch. All Rights Reserved.
+  This module is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+http://search.cpan.org/~rjbs/Data-GUID-0.049/lib/Data/GUID.pm
+http://search.cpan.org/~rjbs/Data-UUID/UUID.pm
+  This software is copyright (c) 2006 by Ricardo SIGNES.
+  This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.
+
+http://search.cpan.org/~chorny/Linux-Distribution-0.23/lib/Linux/Distribution.pm
+  This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.8.5 or, at your option, any later version of Perl 5 you may have available.
+
+http://search.cpan.org/~rurban/Cpanel-JSON-XS-3.0107/XS.pm
+  This module is licensed under the same terms as perl itself.
+
+http://search.cpan.org/~chocolate/Scalar-Util-Numeric-0.40/lib/Scalar/Util/Numeric.pm
+  This module is free software. It may be used, redistributed and/or modified under the same terms as Perl itself.
+-------------------------------------------------------------------------------------------------------------------------------
+
+Artistic License 2.0
+View Summary of Artistic License 2.0 (Artistic-2.0) on TLDRLegal » (Disclaimer)
+
+Artistic License 2.0
+Copyright (c) 2000-2006, The Perl Foundation.
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Preamble
+This license establishes the terms under which a given free software Package may be copied, modified, distributed, and/or redistributed. The intent is that the Copyright Holder maintains some artistic control over the development of that Package while still keeping the Package available as open source and free software.
+
+You are always permitted to make arrangements wholly outside of this license directly with the Copyright Holder of a given Package. If the terms of this license do not permit the full use that you propose to make of the Package, you should contact the Copyright Holder and seek a different licensing arrangement.
+
+Definitions
+"Copyright Holder" means the individual(s) or organization(s) named in the copyright notice for the entire Package.
+
+"Contributor" means any party that has contributed code or other material to the Package, in accordance with the Copyright Holder's procedures.
+
+"You" and "your" means any person who would like to copy, distribute, or modify the Package.
+
+"Package" means the collection of files distributed by the Copyright Holder, and derivatives of that collection and/or of those files. A given Package may consist of either the Standard Version, or a Modified Version.
+
+"Distribute" means providing a copy of the Package or making it accessible to anyone else, or in the case of a company or organization, to others outside of your company or organization.
+
+"Distributor Fee" means any fee that you charge for Distributing this Package or providing support for this Package to another party. It does not mean licensing fees.
+
+"Standard Version" refers to the Package if it has not been modified, or has been modified only in ways explicitly requested by the Copyright Holder.
+
+"Modified Version" means the Package, if it has been changed, and such changes were not explicitly requested by the Copyright Holder.
+
+"Original License" means this Artistic License as Distributed with the Standard Version of the Package, in its current version or as it may be modified by The Perl Foundation in the future.
+
+"Source" form means the source code, documentation source, and configuration files for the Package.
+
+"Compiled" form means the compiled bytecode, object code, binary, or any other form resulting from mechanical transformation or translation of the Source form.
+
+Permission for Use and Modification Without Distribution
+(1) You are permitted to use the Standard Version and create and use Modified Versions for any purpose without restriction, provided that you do not Distribute the Modified Version.
+
+Permissions for Redistribution of the Standard Version
+(2) You may Distribute verbatim copies of the Source form of the Standard Version of this Package in any medium without restriction, either gratis or for a Distributor Fee, provided that you duplicate all of the original copyright notices and associated disclaimers. At your discretion, such verbatim copies may or may not include a Compiled form of the Package.
+
+(3) You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
+
+Distribution of Modified Versions of the Package as Source
+(4) You may Distribute your Modified Version as Source (either gratis or for a Distributor Fee, and with or without a Compiled form of the Modified Version) provided that you clearly document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules, and provided that you do at least ONE of the following:
+
+(a) make the Modified Version available to the Copyright Holder of the Standard Version, under the Original License, so that the Copyright Holder may include your modifications in the Standard Version.
+(b) ensure that installation of your Modified Version does not prevent the user installing or running the Standard Version. In addition, the Modified Version must bear a name that is different from the name of the Standard Version.
+(c) allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under
+(i) the Original License or
+(ii) a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
+
+Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source
+(5) You may Distribute Compiled forms of the Standard Version without the Source, provided that you include complete instructions on how to get the Source of the Standard Version. Such instructions must be valid at the time of your distribution. If these instructions, at any time while you are carrying out such distribution, become invalid, you must provide new instructions on demand or cease further distribution. If you provide valid instructions or cease distribution within thirty days after you become aware that the instructions are invalid, then you do not forfeit any of your rights under this license.
+
+(6) You may Distribute a Modified Version in Compiled form without the Source, provided that you comply with Section 4 with respect to the Source of the Modified Version.
+
+Aggregating or Linking the Package
+(7) You may aggregate the Package (either the Standard Version or Modified Version) with other packages and Distribute the resulting aggregation provided that you do not charge a licensing fee for the Package. Distributor Fees are permitted, and licensing fees for other components in the aggregation are permitted. The terms of this license apply to the use and Distribution of the Standard or Modified Versions as included in the aggregation.
+
+(8) You are permitted to link Modified and Standard Versions with other works, to embed the Package in a larger work of your own, or to build stand-alone binary or bytecode versions of applications that include the Package, and Distribute the result without restriction, provided the result does not expose a direct interface to the Package.
+
+Items That are Not Considered Part of a Modified Version
+(9) Works (including, but not limited to, modules and scripts) that merely extend or make use of the Package, do not, by themselves, cause the Package to be a Modified Version. In addition, such works are not considered parts of the Package itself, and are not subject to the terms of this license.
+
+General Provisions
+(10) Any use, modification, and distribution of the Standard or Modified Versions is governed by this Artistic License. By using, modifying or distributing the Package, you accept this license. Do not use, modify, or distribute the Package, if you do not accept this license.
+
+(11) If your Modified Version has been derived from a Modified Version made by someone other than you, you are nevertheless required to ensure that your Modified Version complies with the requirements of this license.
+
+(12) This license does not grant you the right to use any trademark, service mark, tradename, or logo of the Copyright Holder.
+
+(13) This license includes the non-exclusive, worldwide, free-of-charge patent license to make, have made, use, offer to sell, sell, import and otherwise transfer the Package with respect to any patent claims licensable by the Copyright Holder that are necessarily infringed by the Package. If you institute patent litigation (including a cross-claim or counterclaim) against any party alleging that the Package constitutes direct or contributory patent infringement, then this Artistic License to you shall terminate on the date that such litigation is filed.
+
+(14) Disclaimer of Warranty: THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+https://opensource.org/licenses/Artistic-2.0
+----------------
+
+http://search.cpan.org/~drolsky/Log-Dispatch-2.54/lib/Log/Dispatch.pm
+  Dave Rolsky <autarch@urth.org>
+
+http://search.cpan.org/~drolsky/DateTime-1.41/lib/DateTime.pm
+  Copyright (c) 2016 by Dave Rolsky.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+The MIT License (MIT)
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+https://opensource.org/licenses/MIT
+----------------
+
+http://search.cpan.org/~szbalint/WWW-Curl-4.17/lib/WWW/Curl.pm
+  See also http://curl.haxx.se
+  Currently maintained by Cris Bailiff <c.bailiff+curl at devsecure.com> and Balint Szilakszi <szbalint at cpan.org>.
+  Original Author Georg Horn <horn@koblenz-net.de>, with additional callback, pod and test work by Cris Bailiff <c.bailiff+curl@devsecure.com> and Forrest Cahoon <forrest.cahoon@merrillcorp.com>. Sebastian Riedel added ::Multi and Anton Fedorov (datacompboy <at> mail.ru) added ::Share. Balint Szilakszi repackaged the module into a more modern form.
+  Copyright (C) 2000-2005,2008-2014 Daniel Stenberg, Cris Bailiff, Sebastian Riedel, Balint Szilakszi et al.
+  You may opt to use, copy, modify, merge, publish, distribute and/or sell copies of the Software, and permit persons to whom the Software is furnished to do so, under the terms of the MIT license.
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1996 - 2016, Daniel Stenberg, daniel@haxx.se, and many contributors, see the THANKS file.
+
+All rights reserved.
+
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+
+------------------------------------------------------------------------------------------
+
+This product includes software developed by Libssh2 (http://www.libssh2.org/). 
+/* Copyright (c) 2004-2007 Sara Golemon <sarag@libssh2.org> * Copyright (c) 2005,2006 Mikhail Gusarov <dottedmag@dottedmag.net> * Copyright (c) 2006-2007 The Written Word, Inc. * Copyright (c) 2007 Eli Fant <elifantu@mail.ru> * Copyright (c) 2009 Daniel Stenberg * Copyright (C) 2008, 2009 Simon Josefsson * All rights reserved. * * Redistribution and use in source and binary forms, with or without modification, are permitted * provided that the following conditions are met: * * Redistributions of source code must retain the above copyright notice, this list of * conditions and the following disclaimer. * * Redistributions in binary form must reproduce the above copyright notice, this list of * conditions and the following disclaimer in the documentation and/or other materials * provided with the distribution. * * Neither the name of the copyright holder nor the names of any other contributors may be used * to endorse or promote products derived from this software without specific prior written * permission. * * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR * IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. * IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, * INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, * * BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, * OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, * WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
+
+-----------------------------------------------------------------------------------------
+
+This product includes software developed by zlib (http://www.zlib.net)
+/* zlib.h -- interface of the 'zlib' general purpose compression library
+version 1.2.7, May 2nd, 2012
+Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler
+This software is provided 'as-is', without any express or implied warranty. In no event will
+the authors be held liable for any damages arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose, including commercial
+applications, and to alter it and redistribute it freely, subject to the following
+restrictions:
+1. The origin of this software must not be misrepresented; you must not claim that you wrote
+the original software. If you use this software in a product, an acknowledgment in the
+product documentation would be appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be misrepresented
+as being the original software.
+3. This notice may not be removed or altered from any source distribution.
+Jean-loup Gailly Mark Adler
+jloup@gzip.org madler@alumni.caltech.edu
+*/
+
+------------------------------------------------------------------------------------------
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org).
+OpenSSL License
+---------------
+/* ====================================================================
+* Copyright (c) 1998-2011 The OpenSSL Project. All rights reserved.
+*
+* Redistribution and use in source and binary forms, with or without
+* modification, are permitted provided that the following conditions
+* are met:
+*
+* 1. Redistributions of source code must retain the above copyright
+* notice, this list of conditions and the following disclaimer.
+*
+* 2. Redistributions in binary form must reproduce the above copyright
+* notice, this list of conditions and the following disclaimer in
+* the documentation and/or other materials provided with the
+* distribution.
+*
+* 3. All advertising materials mentioning features or use of this
+* software must display the following acknowledgment:
+* "This product includes software developed by the OpenSSL Project
+* for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+*
+* 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+* endorse or promote products derived from this software without
+* prior written permission. For written permission, please contact
+* openssl-core@openssl.org.
+*
+* 5. Products derived from this software may not be called "OpenSSL"
+* nor may "OpenSSL" appear in their names without prior written
+* permission of the OpenSSL Project.
+*
+* 6. Redistributions of any form whatsoever must retain the following
+* acknowledgment:
+* "This product includes software developed by the OpenSSL Project
+* for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+*
+* THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+* EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+* IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+* PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE OpenSSL PROJECT OR
+* ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+* SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+* NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+* LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+* HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+* STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+* ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+* OF THE POSSIBILITY OF SUCH DAMAGE.
+* ====================================================================
+*
+* This product includes cryptographic software written by Eric Young
+* (eay@cryptsoft.com). This product includes software written by Tim
+* Hudson (tjh@cryptsoft.com).
+*
+*/
+
