@@ -1,0 +1,5 @@
+COB Date,Trade Date,Account,Account name,Trade Type,Buy/Sell,Quantity,Market,Product,Contract Month,Contract Year,Put/Call Indicator,Strike Price,Contract Currency,Trade Price,Realized P&L (local),Net Realized P&L (local),Clearing + Execution  Commission (local),Total Fees (local)
+"20250806","20250610","00102702","","Purchase & Sale","B","4","CME (IMM)","EMINI S&P 500","09","25","","","USD","6064.00000000","-1212800.00","-1212800.00","0.00","0.00"
+"20250806","20250806","00102702","","Purchase & Sale","S","4","CME (IMM)","EMINI S&P 500","09","25","","","USD","6327.25000000","1265450.00","1265450.00","0.00","0.00"
+"20250806","20250610","00102703","","Purchase & Sale","B","1","CME (IMM)","EMINI S&P 500","09","25","","","USD","6064.00000000","-303200.00","-303200.00","0.00","0.00"
+"20250806","20250806","00102703","","Purchase & Sale","S","1","CME (IMM)","EMINI S&P 500","09","25","","","USD","6327.00000000","316350.00","316350.00","0.00","0.00"

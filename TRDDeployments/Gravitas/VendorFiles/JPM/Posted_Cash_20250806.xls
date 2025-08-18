@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>VPR</Author>
+  <LastAuthor>VPR</LastAuthor>
+  <Company>J.P. Morgan Chase &amp; Co.</Company>
+  <Version>10.6746</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="/"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12015</WindowHeight>
+  <WindowWidth>15195</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <ActiveSheet>2</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+<Styles> 
+   <Style ss:ID="Default" ss:Name="Normal"> 
+    <Alignment ss:Vertical="Bottom"/> 
+    <Borders/> 
+    <Font/> 
+    <Interior/> 
+    <NumberFormat/> 
+    <Protection/> 
+   </Style> 
+   <Style ss:ID="ss_Bold"> 
+        <Font x:Family="Swiss" ss:Bold="1"/> 
+   </Style> 
+   <Style ss:ID="sdd/MM/yyyy">
+       <NumberFormat ss:Format="dd/MM/yyyy"/>
+   </Style>
+   <Style ss:ID="syy/MM/dd">
+       <NumberFormat ss:Format="yy/MM/dd"/>
+   </Style>
+   <Style ss:ID="sMMM.dd.yy">
+       <NumberFormat ss:Format="MMM\.dd\.yy"/>
+   </Style>
+   <Style ss:ID="sdd.MMM.yyyy">
+       <NumberFormat ss:Format="dd\.MMM\.yyyy"/>
+   </Style>
+   <Style ss:ID="syyyy-MM-dd">
+       <NumberFormat ss:Format="yyyy\-MM\-dd"/>
+   </Style>
+   <Style ss:ID="sdd.MM.yyyy">
+       <NumberFormat ss:Format="dd\.MM\.yyyy"/>
+   </Style>
+   <Style ss:ID="sMM/dd/yyyy">
+       <NumberFormat ss:Format="MM/dd/yyyy"/>
+   </Style>
+   <Style ss:ID="syy/MMM/dd">
+       <NumberFormat ss:Format="yy/MMM/dd"/>
+   </Style>
+   <Style ss:ID="sddMMMyyyy">
+       <NumberFormat ss:Format="ddMMMyyyy"/>
+   </Style>
+   <Style ss:ID="syyyy/MMM/dd">
+       <NumberFormat ss:Format="yyyy/MMM/dd"/>
+   </Style>
+   <Style ss:ID="sMM.dd.yy">
+       <NumberFormat ss:Format="MM\.dd\.yy"/>
+   </Style>
+   <Style ss:ID="syyyyMMdd">
+       <NumberFormat ss:Format="yyyyMMdd"/>
+   </Style>
+   <Style ss:ID="shh:mm:ss">
+       <NumberFormat ss:Format="hh:mm:ss"/>
+   </Style>
+   <Style ss:ID="sdd-MM-yy">
+       <NumberFormat ss:Format="dd\-MM\-yy"/>
+   </Style>
+   <Style ss:ID="sMM-dd-yy">
+       <NumberFormat ss:Format="MM\-dd\-yy"/>
+   </Style>
+   <Style ss:ID="sdd/MM/yy">
+       <NumberFormat ss:Format="dd/MM/yy"/>
+   </Style>
+   <Style ss:ID="sddMMMyy">
+       <NumberFormat ss:Format="ddMMMyy"/>
+   </Style>
+   <Style ss:ID="sdd-MM-yyyy">
+       <NumberFormat ss:Format="dd\-MM\-yyyy"/>
+   </Style>
+   <Style ss:ID="sdd/MMM/yy">
+       <NumberFormat ss:Format="dd/MMM/yy"/>
+   </Style>
+   <Style ss:ID="sdd/MMM/yyyy">
+       <NumberFormat ss:Format="dd/MMM/yyyy"/>
+   </Style>
+   <Style ss:ID="sddMMyyyy">
+       <NumberFormat ss:Format="ddMMyyyy"/>
+   </Style>
+   <Style ss:ID="syyMMMdd">
+       <NumberFormat ss:Format="yyMMMdd"/>
+   </Style>
+   <Style ss:ID="sdd.MM.yy">
+       <NumberFormat ss:Format="dd\.MM\.yy"/>
+   </Style>
+   <Style ss:ID="syy.MMM.dd">
+       <NumberFormat ss:Format="yy\.MMM\.dd"/>
+   </Style>
+   <Style ss:ID="sMM-dd-yyyy">
+       <NumberFormat ss:Format="MM\-dd\-yyyy"/>
+   </Style>
+   <Style ss:ID="sMMMddyy">
+       <NumberFormat ss:Format="MMMddyy"/>
+   </Style>
+   <Style ss:ID="sddMMyy">
+       <NumberFormat ss:Format="ddMMyy"/>
+   </Style>
+   <Style ss:ID="sMMddyyyy">
+       <NumberFormat ss:Format="MMddyyyy"/>
+   </Style>
+   <Style ss:ID="syyMMdd">
+       <NumberFormat ss:Format="yyMMdd"/>
+   </Style>
+   <Style ss:ID="sMMM/dd/yyyy">
+       <NumberFormat ss:Format="MMM/dd/yyyy"/>
+   </Style>
+   <Style ss:ID="sMM/dd/yy">
+       <NumberFormat ss:Format="MM/dd/yy"/>
+   </Style>
+   <Style ss:ID="shh:mm:ss.ss">
+       <NumberFormat ss:Format="hh:mm:ss.ss"/>
+   </Style>
+   <Style ss:ID="sMMddyy">
+       <NumberFormat ss:Format="MMddyy"/>
+   </Style>
+   <Style ss:ID="sdd.MMM.yy">
+       <NumberFormat ss:Format="dd\.MMM\.yy"/>
+   </Style>
+   <Style ss:ID="syyyy/MM/dd">
+       <NumberFormat ss:Format="yyyy/MM/dd"/>
+   </Style>
+   <Style ss:ID="sMMM.dd.yyyy">
+       <NumberFormat ss:Format="MMM\.dd\.yyyy"/>
+   </Style>
+   <Style ss:ID="sdd-MMM-yyyy">
+       <NumberFormat ss:Format="dd\-MMM\-yyyy"/>
+   </Style>
+   <Style ss:ID="syy-MMM-dd">
+       <NumberFormat ss:Format="yy\-MMM\-dd"/>
+   </Style>
+   <Style ss:ID="syyyy-MMM-dd">
+       <NumberFormat ss:Format="yyyy\-MMM\-dd"/>
+   </Style>
+   <Style ss:ID="sMMM-dd-yy">
+       <NumberFormat ss:Format="MMM\-dd\-yy"/>
+   </Style>
+   <Style ss:ID="sMM.dd.yyyy">
+       <NumberFormat ss:Format="MM\.dd\.yyyy"/>
+   </Style>
+   <Style ss:ID="shh:mm">
+       <NumberFormat ss:Format="hh:mm"/>
+   </Style>
+   <Style ss:ID="sMMM-dd-yyyy">
+       <NumberFormat ss:Format="MMM\-dd\-yyyy"/>
+   </Style>
+   <Style ss:ID="syyyyMMMdd">
+       <NumberFormat ss:Format="yyyyMMMdd"/>
+   </Style>
+   <Style ss:ID="sMMM/dd/yy">
+       <NumberFormat ss:Format="MMM/dd/yy"/>
+   </Style>
+   <Style ss:ID="syy.MM.dd">
+       <NumberFormat ss:Format="yy\.MM\.dd"/>
+   </Style>
+   <Style ss:ID="sMMMddyyyy">
+       <NumberFormat ss:Format="MMMddyyyy"/>
+   </Style>
+   <Style ss:ID="sdd-MMM-yy">
+       <NumberFormat ss:Format="dd\-MMM\-yy"/>
+   </Style>
+   <Style ss:ID="syyyy.MM.dd">
+       <NumberFormat ss:Format="yyyy\.MM\.dd"/>
+   </Style>
+   <Style ss:ID="syy-MM-dd">
+       <NumberFormat ss:Format="yy\-MM\-dd"/>
+   </Style>
+   <Style ss:ID="syyyy.MMM.dd">
+       <NumberFormat ss:Format="yyyy\.MMM\.dd"/>
+   </Style>
+   <Style ss:ID="s_decimal9BMF">
+      <NumberFormat ss:Format="###0.000000000_);\-###0.000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal5RPT">
+      <NumberFormat ss:Format="#,##0.00000_);[red]\(#,##0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal8BPF">
+      <NumberFormat ss:Format="###0.00000000_);\(###0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_percent9">
+      <NumberFormat ss:Format="0.000000000%"/>
+   </Style>
+   <Style ss:ID="s_decimal6RMT">
+      <NumberFormat ss:Format="#,##0.000000_);[red]\-#,##0.000000"/>
+   </Style>
+   <Style ss:ID="s_decimal10BMT">
+      <NumberFormat ss:Format="#,##0.0000000000_);\-#,##0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal0BPF">
+      <NumberFormat ss:Format="###0_);\(###0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal10RMF">
+      <NumberFormat ss:Format="###0.0000000000_);[red]\-###0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal1BMF">
+      <NumberFormat ss:Format="###0.0_);\-###0.0"/>
+   </Style>
+   <Style ss:ID="s_decimal8BPT">
+      <NumberFormat ss:Format="#,##0.00000000_);\(#,##0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal9BMT">
+      <NumberFormat ss:Format="#,##0.000000000_);\-#,##0.000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal9RMF">
+      <NumberFormat ss:Format="###0.000000000_);[red]\-###0.000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal8RPF">
+      <NumberFormat ss:Format="###0.00000000_);[red]\(###0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal12BPF">
+      <NumberFormat ss:Format="###0.000000000000_);\(###0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal0BPT">
+      <NumberFormat ss:Format="#,##0_);\(#,##0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal10RMT">
+      <NumberFormat ss:Format="#,##0.0000000000_);[red]\-#,##0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal0RPF">
+      <NumberFormat ss:Format="###0_);[red]\(###0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal1BMT">
+      <NumberFormat ss:Format="#,##0.0_);\-#,##0.0"/>
+   </Style>
+   <Style ss:ID="s_decimal1RMF">
+      <NumberFormat ss:Format="###0.0_);[red]\-###0.0"/>
+   </Style>
+   <Style ss:ID="s_decimal13BMF">
+      <NumberFormat ss:Format="###0.0000000000000_);\-###0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal8RPT">
+      <NumberFormat ss:Format="#,##0.00000000_);[red]\(#,##0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal9RMT">
+      <NumberFormat ss:Format="#,##0.000000000_);[red]\-#,##0.000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal15BPF">
+      <NumberFormat ss:Format="###0.000000000000000_);\(###0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal12RPF">
+      <NumberFormat ss:Format="###0.000000000000_);[red]\(###0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal13BMT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);\-#,##0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal12BPT">
+      <NumberFormat ss:Format="#,##0.000000000000_);\(#,##0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal3BPF">
+      <NumberFormat ss:Format="###0.000_);\(###0.000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal0RPT">
+      <NumberFormat ss:Format="#,##0_);[red]\(#,##0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal1RMT">
+      <NumberFormat ss:Format="#,##0.0_);[red]\-#,##0.0"/>
+   </Style>
+   <Style ss:ID="s_decimal4BMF">
+      <NumberFormat ss:Format="###0.0000_);\-###0.0000"/>
+   </Style>
+   <Style ss:ID="s_decimal13RMF">
+      <NumberFormat ss:Format="###0.0000000000000_);[red]\-###0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_percent0">
+      <NumberFormat ss:Format="0%"/>
+   </Style>
+   <Style ss:ID="s_decimal15RPF">
+      <NumberFormat ss:Format="###0.000000000000000_);[red]\(###0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal15BPT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);\(#,##0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_percent8">
+      <NumberFormat ss:Format="0.00000000%"/>
+   </Style>
+   <Style ss:ID="s_percent7">
+      <NumberFormat ss:Format="0.0000000%"/>
+   </Style>
+   <Style ss:ID="s_decimal3BPT">
+      <NumberFormat ss:Format="#,##0.000_);\(#,##0.000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal13RMT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);[red]\-#,##0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_percent6">
+      <NumberFormat ss:Format="0.000000%"/>
+   </Style>
+   <Style ss:ID="s_decimal12RPT">
+      <NumberFormat ss:Format="#,##0.000000000000_);[red]\(#,##0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_percent5">
+      <NumberFormat ss:Format="0.00000%"/>
+   </Style>
+   <Style ss:ID="s_decimal3RPF">
+      <NumberFormat ss:Format="###0.000_);[red]\(###0.000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal4BMT">
+      <NumberFormat ss:Format="#,##0.0000_);\-#,##0.0000"/>
+   </Style>
+   <Style ss:ID="s_percent4">
+      <NumberFormat ss:Format="0.0000%"/>
+   </Style>
+   <Style ss:ID="s_percent3">
+      <NumberFormat ss:Format="0.000%"/>
+   </Style>
+   <Style ss:ID="s_percent2">
+      <NumberFormat ss:Format="0.00%"/>
+   </Style>
+   <Style ss:ID="s_decimal4RMF">
+      <NumberFormat ss:Format="###0.0000_);[red]\-###0.0000"/>
+   </Style>
+   <Style ss:ID="s_percent1">
+      <NumberFormat ss:Format="0.0%"/>
+   </Style>
+   <Style ss:ID="s_decimal15RPT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);[red]\(#,##0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal6BPF">
+      <NumberFormat ss:Format="###0.000000_);\(###0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal5">
+      <NumberFormat ss:Format="#,##0.00000_);\(#,##0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal4RMT">
+      <NumberFormat ss:Format="#,##0.0000_);[red]\-#,##0.0000"/>
+   </Style>
+   <Style ss:ID="s_decimal6">
+      <NumberFormat ss:Format="#,##0.000000_);\(#,##0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal3RPT">
+      <NumberFormat ss:Format="#,##0.000_);[red]\(#,##0.000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal7">
+      <NumberFormat ss:Format="#,##0.0000000_);\(#,##0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal7BMF">
+      <NumberFormat ss:Format="###0.0000000_);\-###0.0000000"/>
+   </Style>
+   <Style ss:ID="s_decimal8">
+      <NumberFormat ss:Format="#,##0.00000000_);\(#,##0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal9">
+      <NumberFormat ss:Format="#,##0.000000000_);\(#,##0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal0">
+      <NumberFormat ss:Format="#,##0_);\(#,##0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal1">
+      <NumberFormat ss:Format="#,##0.0_);\(#,##0.0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal6RPF">
+      <NumberFormat ss:Format="###0.000000_);[red]\(###0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal7BMT">
+      <NumberFormat ss:Format="#,##0.0000000_);\-#,##0.0000000"/>
+   </Style>
+   <Style ss:ID="s_decimal2">
+      <NumberFormat ss:Format="#,##0.00_);\(#,##0.00\)"/>
+   </Style>
+   <Style ss:ID="s_decimal3">
+      <NumberFormat ss:Format="#,##0.000_);\(#,##0.000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal4">
+      <NumberFormat ss:Format="#,##0.0000_);\(#,##0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal6BPT">
+      <NumberFormat ss:Format="#,##0.000000_);\(#,##0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal7RMF">
+      <NumberFormat ss:Format="###0.0000000_);[red]\-###0.0000000"/>
+   </Style>
+   <Style ss:ID="s_decimal11BMF">
+      <NumberFormat ss:Format="###0.00000000000_);\-###0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal10BPF">
+      <NumberFormat ss:Format="###0.0000000000_);\(###0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal9BPF">
+      <NumberFormat ss:Format="###0.000000000_);\(###0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal7RMT">
+      <NumberFormat ss:Format="#,##0.0000000_);[red]\-#,##0.0000000"/>
+   </Style>
+   <Style ss:ID="s_decimal6RPT">
+      <NumberFormat ss:Format="#,##0.000000_);[red]\(#,##0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal10BPT">
+      <NumberFormat ss:Format="#,##0.0000000000_);\(#,##0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal1BPF">
+      <NumberFormat ss:Format="###0.0_);\(###0.0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11RMF">
+      <NumberFormat ss:Format="###0.00000000000_);[red]\-###0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal10RPF">
+      <NumberFormat ss:Format="###0.0000000000_);[red]\(###0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11BMT">
+      <NumberFormat ss:Format="#,##0.00000000000_);\-#,##0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal2BMF">
+      <NumberFormat ss:Format="###0.00_);\-###0.00"/>
+   </Style>
+   <Style ss:ID="s_decimal9RPF">
+      <NumberFormat ss:Format="###0.000000000_);[red]\(###0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal13BPT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);\(#,##0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal9BPT">
+      <NumberFormat ss:Format="#,##0.000000000_);\(#,##0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal14BMF">
+      <NumberFormat ss:Format="###0.00000000000000_);\-###0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal1BPT">
+      <NumberFormat ss:Format="#,##0.0_);\(#,##0.0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal13BPF">
+      <NumberFormat ss:Format="###0.0000000000000_);\(###0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal10RPT">
+      <NumberFormat ss:Format="#,##0.0000000000_);[red]\(#,##0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal1RPF">
+      <NumberFormat ss:Format="###0.0_);[red]\(###0.0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal2BMT">
+      <NumberFormat ss:Format="#,##0.00_);\-#,##0.00"/>
+   </Style>
+   <Style ss:ID="s_decimal11RMT">
+      <NumberFormat ss:Format="#,##0.00000000000_);[red]\-#,##0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal2RMF">
+      <NumberFormat ss:Format="###0.00_);[red]\-###0.00"/>
+   </Style>
+   <Style ss:ID="s_decimal13RPT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);[red]\(#,##0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal9RPT">
+      <NumberFormat ss:Format="#,##0.000000000_);[red]\(#,##0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal4BPF">
+      <NumberFormat ss:Format="###0.0000_);\(###0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal14RMF">
+      <NumberFormat ss:Format="###0.00000000000000_);[red]\-###0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal5BMF">
+      <NumberFormat ss:Format="###0.00000_);\-###0.00000"/>
+   </Style>
+   <Style ss:ID="s_decimal1RPT">
+      <NumberFormat ss:Format="#,##0.0_);[red]\(#,##0.0\)"/>
+   </Style>
+   <Style ss:ID="s_decimal13RPF">
+      <NumberFormat ss:Format="###0.0000000000000_);[red]\(###0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal14BMT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);\-#,##0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal2RMT">
+      <NumberFormat ss:Format="#,##0.00_);[red]\-#,##0.00"/>
+   </Style>
+   <Style ss:ID="s_decimal12">
+      <NumberFormat ss:Format="#,##0.000000000000_);\(#,##0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal13">
+      <NumberFormat ss:Format="#,##0.0000000000000_);\(#,##0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal10">
+      <NumberFormat ss:Format="#,##0.0000000000_);\(#,##0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal4BPT">
+      <NumberFormat ss:Format="#,##0.0000_);\(#,##0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11">
+      <NumberFormat ss:Format="#,##0.00000000000_);\(#,##0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal5RMF">
+      <NumberFormat ss:Format="###0.00000_);[red]\-###0.00000"/>
+   </Style>
+   <Style ss:ID="s_decimal14">
+      <NumberFormat ss:Format="#,##0.00000000000000_);\(#,##0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal14RMT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);[red]\-#,##0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal15">
+      <NumberFormat ss:Format="#,##0.000000000000000_);\(#,##0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal4RPF">
+      <NumberFormat ss:Format="###0.0000_);[red]\(###0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal5BMT">
+      <NumberFormat ss:Format="#,##0.00000_);\-#,##0.00000"/>
+   </Style>
+   <Style ss:ID="s_percent15">
+      <NumberFormat ss:Format="0.000000000000000%"/>
+   </Style>
+   <Style ss:ID="s_percent14">
+      <NumberFormat ss:Format="0.00000000000000%"/>
+   </Style>
+   <Style ss:ID="s_percent11">
+      <NumberFormat ss:Format="0.00000000000%"/>
+   </Style>
+   <Style ss:ID="s_percent10">
+      <NumberFormat ss:Format="0.0000000000%"/>
+   </Style>
+   <Style ss:ID="s_decimal4RPT">
+      <NumberFormat ss:Format="#,##0.0000_);[red]\(#,##0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal7BPF">
+      <NumberFormat ss:Format="###0.0000000_);\(###0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_percent13">
+      <NumberFormat ss:Format="0.0000000000000%"/>
+   </Style>
+   <Style ss:ID="s_percent12">
+      <NumberFormat ss:Format="0.000000000000%"/>
+   </Style>
+   <Style ss:ID="s_decimal5RMT">
+      <NumberFormat ss:Format="#,##0.00000_);[red]\-#,##0.00000"/>
+   </Style>
+   <Style ss:ID="s_decimal8BMF">
+      <NumberFormat ss:Format="###0.00000000_);\-###0.00000000"/>
+   </Style>
+   <Style ss:ID="s_decimal0BMF">
+      <NumberFormat ss:Format="###0_);\-###0"/>
+   </Style>
+   <Style ss:ID="s_decimal7RPF">
+      <NumberFormat ss:Format="###0.0000000_);[red]\(###0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal8BMT">
+      <NumberFormat ss:Format="#,##0.00000000_);\-#,##0.00000000"/>
+   </Style>
+   <Style ss:ID="s_decimal7BPT">
+      <NumberFormat ss:Format="#,##0.0000000_);\(#,##0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11BPF">
+      <NumberFormat ss:Format="###0.00000000000_);\(###0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal8RMF">
+      <NumberFormat ss:Format="###0.00000000_);[red]\-###0.00000000"/>
+   </Style>
+   <Style ss:ID="s_decimal0BMT">
+      <NumberFormat ss:Format="#,##0_);\-#,##0"/>
+   </Style>
+   <Style ss:ID="s_decimal12BMF">
+      <NumberFormat ss:Format="###0.000000000000_);\-###0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal0RMF">
+      <NumberFormat ss:Format="###0_);[red]\-###0"/>
+   </Style>
+   <Style ss:ID="s_decimal8RMT">
+      <NumberFormat ss:Format="#,##0.00000000_);[red]\-#,##0.00000000"/>
+   </Style>
+   <Style ss:ID="s_decimal7RPT">
+      <NumberFormat ss:Format="#,##0.0000000_);[red]\(#,##0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11RPF">
+      <NumberFormat ss:Format="###0.00000000000_);[red]\(###0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal12BMT">
+      <NumberFormat ss:Format="#,##0.000000000000_);\-#,##0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal2BPF">
+      <NumberFormat ss:Format="###0.00_);\(###0.00\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11BPT">
+      <NumberFormat ss:Format="#,##0.00000000000_);\(#,##0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal3BMF">
+      <NumberFormat ss:Format="###0.000_);\-###0.000"/>
+   </Style>
+   <Style ss:ID="s_decimal0RMT">
+      <NumberFormat ss:Format="#,##0_);[red]\-#,##0"/>
+   </Style>
+   <Style ss:ID="s_decimal12RMF">
+      <NumberFormat ss:Format="###0.000000000000_);[red]\-###0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal14BPT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);\(#,##0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal2BPT">
+      <NumberFormat ss:Format="#,##0.00_);\(#,##0.00\)"/>
+   </Style>
+   <Style ss:ID="s_decimal12RMT">
+      <NumberFormat ss:Format="#,##0.000000000000_);[red]\-#,##0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal15BMF">
+      <NumberFormat ss:Format="###0.000000000000000_);\-###0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal3BMT">
+      <NumberFormat ss:Format="#,##0.000_);\-#,##0.000"/>
+   </Style>
+   <Style ss:ID="s_decimal2RPF">
+      <NumberFormat ss:Format="###0.00_);[red]\(###0.00\)"/>
+   </Style>
+   <Style ss:ID="s_decimal11RPT">
+      <NumberFormat ss:Format="#,##0.00000000000_);[red]\(#,##0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal14BPF">
+      <NumberFormat ss:Format="###0.00000000000000_);\(###0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal3RMF">
+      <NumberFormat ss:Format="###0.000_);[red]\-###0.000"/>
+   </Style>
+   <Style ss:ID="s_decimal14RPT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);[red]\(#,##0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal2RPT">
+      <NumberFormat ss:Format="#,##0.00_);[red]\(#,##0.00\)"/>
+   </Style>
+   <Style ss:ID="s_decimal6BMF">
+      <NumberFormat ss:Format="###0.000000_);\-###0.000000"/>
+   </Style>
+   <Style ss:ID="s_decimal3RMT">
+      <NumberFormat ss:Format="#,##0.000_);[red]\-#,##0.000"/>
+   </Style>
+   <Style ss:ID="s_decimal5BPF">
+      <NumberFormat ss:Format="###0.00000_);\(###0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal14RPF">
+      <NumberFormat ss:Format="###0.00000000000000_);[red]\(###0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal15BMT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);\-#,##0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal15RMF">
+      <NumberFormat ss:Format="###0.000000000000000_);[red]\-###0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal5BPT">
+      <NumberFormat ss:Format="#,##0.00000_);\(#,##0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal6RMF">
+      <NumberFormat ss:Format="###0.000000_);[red]\-###0.000000"/>
+   </Style>
+   <Style ss:ID="s_decimal5RPF">
+      <NumberFormat ss:Format="###0.00000_);[red]\(###0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_decimal6BMT">
+      <NumberFormat ss:Format="#,##0.000000_);\-#,##0.000000"/>
+   </Style>
+   <Style ss:ID="s_decimal15RMT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);[red]\-#,##0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_decimal10BMF">
+      <NumberFormat ss:Format="###0.0000000000_);\-###0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_currency8RMT">
+      <NumberFormat ss:Format="#,##0.00000000_);[red]\-#,##0.00000000"/>
+   </Style>
+   <Style ss:ID="s_currency7RPT">
+      <NumberFormat ss:Format="#,##0.0000000_);[red]\(#,##0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency0RMF">
+      <NumberFormat ss:Format="###0_);[red]\-###0"/>
+   </Style>
+   <Style ss:ID="s_currency12BMF">
+      <NumberFormat ss:Format="###0.000000000000_);\-###0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency0BMT">
+      <NumberFormat ss:Format="#,##0_);\-#,##0"/>
+   </Style>
+   <Style ss:ID="s_currency8RMF">
+      <NumberFormat ss:Format="###0.00000000_);[red]\-###0.00000000"/>
+   </Style>
+   <Style ss:ID="s_currency11BPF">
+      <NumberFormat ss:Format="###0.00000000000_);\(###0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency7RPF">
+      <NumberFormat ss:Format="###0.0000000_);[red]\(###0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency8BMT">
+      <NumberFormat ss:Format="#,##0.00000000_);\-#,##0.00000000"/>
+   </Style>
+   <Style ss:ID="s_currency7BPT">
+      <NumberFormat ss:Format="#,##0.0000000_);\(#,##0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency0BMF">
+      <NumberFormat ss:Format="###0_);\-###0"/>
+   </Style>
+   <Style ss:ID="s_currency5RMT">
+      <NumberFormat ss:Format="#,##0.00000_);[red]\-#,##0.00000"/>
+   </Style>
+   <Style ss:ID="s_currency8BMF">
+      <NumberFormat ss:Format="###0.00000000_);\-###0.00000000"/>
+   </Style>
+   <Style ss:ID="s_currency3RMF">
+      <NumberFormat ss:Format="###0.000_);[red]\-###0.000"/>
+   </Style>
+   <Style ss:ID="s_currency11RPT">
+      <NumberFormat ss:Format="#,##0.00000000000_);[red]\(#,##0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency15BMF">
+      <NumberFormat ss:Format="###0.000000000000000_);\-###0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency2BPT">
+      <NumberFormat ss:Format="#,##0.00_);\(#,##0.00\)"/>
+   </Style>
+   <Style ss:ID="s_currency12RMT">
+      <NumberFormat ss:Format="#,##0.000000000000_);[red]\-#,##0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency14BPF">
+      <NumberFormat ss:Format="###0.00000000000000_);\(###0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency3BMT">
+      <NumberFormat ss:Format="#,##0.000_);\-#,##0.000"/>
+   </Style>
+   <Style ss:ID="s_currency2RPF">
+      <NumberFormat ss:Format="###0.00_);[red]\(###0.00\)"/>
+   </Style>
+   <Style ss:ID="s_currency12RMF">
+      <NumberFormat ss:Format="###0.000000000000_);[red]\-###0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency3BMF">
+      <NumberFormat ss:Format="###0.000_);\-###0.000"/>
+   </Style>
+   <Style ss:ID="s_currency0RMT">
+      <NumberFormat ss:Format="#,##0_);[red]\-#,##0"/>
+   </Style>
+   <Style ss:ID="s_currency11BPT">
+      <NumberFormat ss:Format="#,##0.00000000000_);\(#,##0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency11RPF">
+      <NumberFormat ss:Format="###0.00000000000_);[red]\(###0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency12BMT">
+      <NumberFormat ss:Format="#,##0.000000000000_);\-#,##0.000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency2BPF">
+      <NumberFormat ss:Format="###0.00_);\(###0.00\)"/>
+   </Style>
+   <Style ss:ID="s_currency9BMF">
+      <NumberFormat ss:Format="###0.000000000_);\-###0.000000000"/>
+   </Style>
+   <Style ss:ID="s_currency5RPT">
+      <NumberFormat ss:Format="#,##0.00000_);[red]\(#,##0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_currency8BPF">
+      <NumberFormat ss:Format="###0.00000000_);\(###0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency11RMT">
+      <NumberFormat ss:Format="#,##0.00000000000_);[red]\-#,##0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_currency6RMF">
+      <NumberFormat ss:Format="###0.000000_);[red]\-###0.000000"/>
+   </Style>
+   <Style ss:ID="s_currency13BPF">
+      <NumberFormat ss:Format="###0.0000000000000_);\(###0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency5RPF">
+      <NumberFormat ss:Format="###0.00000_);[red]\(###0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_currency14BMF">
+      <NumberFormat ss:Format="###0.00000000000000_);\-###0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency6BMT">
+      <NumberFormat ss:Format="#,##0.000000_);\-#,##0.000000"/>
+   </Style>
+   <Style ss:ID="s_currency10RPT">
+      <NumberFormat ss:Format="#,##0.0000000000_);[red]\(#,##0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency5BPT">
+      <NumberFormat ss:Format="#,##0.00000_);\(#,##0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_currency9">
+      <NumberFormat ss:Format="#,##0.000000000_);\(#,##0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency8">
+      <NumberFormat ss:Format="#,##0.00000000_);\(#,##0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency7">
+      <NumberFormat ss:Format="#,##0.0000000_);\(#,##0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency6">
+      <NumberFormat ss:Format="#,##0.000000_);\(#,##0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency5">
+      <NumberFormat ss:Format="#,##0.00000_);\(#,##0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_currency4">
+      <NumberFormat ss:Format="#,##0.0000_);\(#,##0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_currency10RPF">
+      <NumberFormat ss:Format="###0.0000000000_);[red]\(###0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency11BMT">
+      <NumberFormat ss:Format="#,##0.00000000000_);\-#,##0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_currency3">
+      <NumberFormat ss:Format="#,##0.000_);\(#,##0.000\)"/>
+   </Style>
+   <Style ss:ID="s_currency2">
+      <NumberFormat ss:Format="#,##0.00_);\(#,##0.00\)"/>
+   </Style>
+   <Style ss:ID="s_currency1">
+      <NumberFormat ss:Format="#,##0.0_);\(#,##0.0\)"/>
+   </Style>
+   <Style ss:ID="s_currency11RMF">
+      <NumberFormat ss:Format="###0.00000000000_);[red]\-###0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_currency0">
+      <NumberFormat ss:Format="#,##0_);\(#,##0\)"/>
+   </Style>
+   <Style ss:ID="s_currency6BMF">
+      <NumberFormat ss:Format="###0.000000_);\-###0.000000"/>
+   </Style>
+   <Style ss:ID="s_currency2RPT">
+      <NumberFormat ss:Format="#,##0.00_);[red]\(#,##0.00\)"/>
+   </Style>
+   <Style ss:ID="s_currency5BPF">
+      <NumberFormat ss:Format="###0.00000_);\(###0.00000\)"/>
+   </Style>
+   <Style ss:ID="s_currency10BPT">
+      <NumberFormat ss:Format="#,##0.0000000000_);\(#,##0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency3RMT">
+      <NumberFormat ss:Format="#,##0.000_);[red]\-#,##0.000"/>
+   </Style>
+   <Style ss:ID="s_currency9RMT">
+      <NumberFormat ss:Format="#,##0.000000000_);[red]\-#,##0.000000000"/>
+   </Style>
+   <Style ss:ID="s_currency13RPT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);[red]\(#,##0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency8RPT">
+      <NumberFormat ss:Format="#,##0.00000000_);[red]\(#,##0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency0BPT">
+      <NumberFormat ss:Format="#,##0_);\(#,##0\)"/>
+   </Style>
+   <Style ss:ID="s_currency1RMF">
+      <NumberFormat ss:Format="###0.0_);[red]\-###0.0"/>
+   </Style>
+   <Style ss:ID="s_currency1BMT">
+      <NumberFormat ss:Format="#,##0.0_);\-#,##0.0"/>
+   </Style>
+   <Style ss:ID="s_currency0RPF">
+      <NumberFormat ss:Format="###0_);[red]\(###0\)"/>
+   </Style>
+   <Style ss:ID="s_currency14RMT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);[red]\-#,##0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency9RMF">
+      <NumberFormat ss:Format="###0.000000000_);[red]\-###0.000000000"/>
+   </Style>
+   <Style ss:ID="s_currency8RPF">
+      <NumberFormat ss:Format="###0.00000000_);[red]\(###0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency9BMT">
+      <NumberFormat ss:Format="#,##0.000000000_);\-#,##0.000000000"/>
+   </Style>
+   <Style ss:ID="s_currency13BPT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);\(#,##0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency8BPT">
+      <NumberFormat ss:Format="#,##0.00000000_);\(#,##0.00000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency1BMF">
+      <NumberFormat ss:Format="###0.0_);\-###0.0"/>
+   </Style>
+   <Style ss:ID="s_currency13RPF">
+      <NumberFormat ss:Format="###0.0000000000000_);[red]\(###0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency14RMF">
+      <NumberFormat ss:Format="###0.00000000000000_);[red]\-###0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency0BPF">
+      <NumberFormat ss:Format="###0_);\(###0\)"/>
+   </Style>
+   <Style ss:ID="s_currency6RMT">
+      <NumberFormat ss:Format="#,##0.000000_);[red]\-#,##0.000000"/>
+   </Style>
+   <Style ss:ID="s_currency14BMT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);\-#,##0.00000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency6BPF">
+      <NumberFormat ss:Format="###0.000000_);\(###0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency15BPF">
+      <NumberFormat ss:Format="###0.000000000000000_);\(###0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency13">
+      <NumberFormat ss:Format="#,##0.0000000000000_);\(#,##0.0000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency12">
+      <NumberFormat ss:Format="#,##0.000000000000_);\(#,##0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency11">
+      <NumberFormat ss:Format="#,##0.00000000000_);\(#,##0.00000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency10">
+      <NumberFormat ss:Format="#,##0.0000000000_);\(#,##0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency4RMF">
+      <NumberFormat ss:Format="###0.0000_);[red]\-###0.0000"/>
+   </Style>
+   <Style ss:ID="s_currency3BPT">
+      <NumberFormat ss:Format="#,##0.000_);\(#,##0.000\)"/>
+   </Style>
+   <Style ss:ID="s_currency12RPT">
+      <NumberFormat ss:Format="#,##0.000000000000_);[red]\(#,##0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency3RPF">
+      <NumberFormat ss:Format="###0.000_);[red]\(###0.000\)"/>
+   </Style>
+   <Style ss:ID="s_currency4BMT">
+      <NumberFormat ss:Format="#,##0.0000_);\-#,##0.0000"/>
+   </Style>
+   <Style ss:ID="s_currency13RMT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);[red]\-#,##0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency0RPT">
+      <NumberFormat ss:Format="#,##0_);[red]\(#,##0\)"/>
+   </Style>
+   <Style ss:ID="s_currency4BMF">
+      <NumberFormat ss:Format="###0.0000_);\-###0.0000"/>
+   </Style>
+   <Style ss:ID="s_currency13RMF">
+      <NumberFormat ss:Format="###0.0000000000000_);[red]\-###0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency12BPT">
+      <NumberFormat ss:Format="#,##0.000000000000_);\(#,##0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency3BPF">
+      <NumberFormat ss:Format="###0.000_);\(###0.000\)"/>
+   </Style>
+   <Style ss:ID="s_currency1RMT">
+      <NumberFormat ss:Format="#,##0.0_);[red]\-#,##0.0"/>
+   </Style>
+   <Style ss:ID="s_currency12RPF">
+      <NumberFormat ss:Format="###0.000000000000_);[red]\(###0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency13BMT">
+      <NumberFormat ss:Format="#,##0.0000000000000_);\-#,##0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency7RMT">
+      <NumberFormat ss:Format="#,##0.0000000_);[red]\-#,##0.0000000"/>
+   </Style>
+   <Style ss:ID="s_currency6RPT">
+      <NumberFormat ss:Format="#,##0.000000_);[red]\(#,##0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency9BPF">
+      <NumberFormat ss:Format="###0.000000000_);\(###0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency15RPT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);[red]\(#,##0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency10BPF">
+      <NumberFormat ss:Format="###0.0000000000_);\(###0.0000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency11BMF">
+      <NumberFormat ss:Format="###0.00000000000_);\-###0.00000000000"/>
+   </Style>
+   <Style ss:ID="s_currency7RMF">
+      <NumberFormat ss:Format="###0.0000000_);[red]\-###0.0000000"/>
+   </Style>
+   <Style ss:ID="s_currency6RPF">
+      <NumberFormat ss:Format="###0.000000_);[red]\(###0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency7BMT">
+      <NumberFormat ss:Format="#,##0.0000000_);\-#,##0.0000000"/>
+   </Style>
+   <Style ss:ID="s_currency15RPF">
+      <NumberFormat ss:Format="###0.000000000000000_);[red]\(###0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency6BPT">
+      <NumberFormat ss:Format="#,##0.000000_);\(#,##0.000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency15BPT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);\(#,##0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency3RPT">
+      <NumberFormat ss:Format="#,##0.000_);[red]\(#,##0.000\)"/>
+   </Style>
+   <Style ss:ID="s_currency4RMT">
+      <NumberFormat ss:Format="#,##0.0000_);[red]\-#,##0.0000"/>
+   </Style>
+   <Style ss:ID="s_currency7BMF">
+      <NumberFormat ss:Format="###0.0000000_);\-###0.0000000"/>
+   </Style>
+   <Style ss:ID="s_currency14RPT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);[red]\(#,##0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency9RPT">
+      <NumberFormat ss:Format="#,##0.000000000_);[red]\(#,##0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency2BMT">
+      <NumberFormat ss:Format="#,##0.00_);\-#,##0.00"/>
+   </Style>
+   <Style ss:ID="s_currency1BPT">
+      <NumberFormat ss:Format="#,##0.0_);\(#,##0.0\)"/>
+   </Style>
+   <Style ss:ID="s_currency2RMF">
+      <NumberFormat ss:Format="###0.00_);[red]\-###0.00"/>
+   </Style>
+   <Style ss:ID="s_currency10BMF">
+      <NumberFormat ss:Format="###0.0000000000_);\-###0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_currency15RMT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);[red]\-#,##0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency1RPF">
+      <NumberFormat ss:Format="###0.0_);[red]\(###0.0\)"/>
+   </Style>
+   <Style ss:ID="s_currency14BPT">
+      <NumberFormat ss:Format="#,##0.00000000000000_);\(#,##0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency9RPF">
+      <NumberFormat ss:Format="###0.000000000_);[red]\(###0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency9BPT">
+      <NumberFormat ss:Format="#,##0.000000000_);\(#,##0.000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency2BMF">
+      <NumberFormat ss:Format="###0.00_);\-###0.00"/>
+   </Style>
+   <Style ss:ID="s_currency15RMF">
+      <NumberFormat ss:Format="###0.000000000000000_);[red]\-###0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency14RPF">
+      <NumberFormat ss:Format="###0.00000000000000_);[red]\(###0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency15BMT">
+      <NumberFormat ss:Format="#,##0.000000000000000_);\-#,##0.000000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency1BPF">
+      <NumberFormat ss:Format="###0.0_);\(###0.0\)"/>
+   </Style>
+   <Style ss:ID="s_currency7BPF">
+      <NumberFormat ss:Format="###0.0000000_);\(###0.0000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency4RPT">
+      <NumberFormat ss:Format="#,##0.0000_);[red]\(#,##0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_currency10RMT">
+      <NumberFormat ss:Format="#,##0.0000000000_);[red]\-#,##0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_currency13BMF">
+      <NumberFormat ss:Format="###0.0000000000000_);\-###0.0000000000000"/>
+   </Style>
+   <Style ss:ID="s_currency4RPF">
+      <NumberFormat ss:Format="###0.0000_);[red]\(###0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_currency5BMT">
+      <NumberFormat ss:Format="#,##0.00000_);\-#,##0.00000"/>
+   </Style>
+   <Style ss:ID="s_currency5RMF">
+      <NumberFormat ss:Format="###0.00000_);[red]\-###0.00000"/>
+   </Style>
+   <Style ss:ID="s_currency12BPF">
+      <NumberFormat ss:Format="###0.000000000000_);\(###0.000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency4BPT">
+      <NumberFormat ss:Format="#,##0.0000_);\(#,##0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_currency2RMT">
+      <NumberFormat ss:Format="#,##0.00_);[red]\-#,##0.00"/>
+   </Style>
+   <Style ss:ID="s_currency1RPT">
+      <NumberFormat ss:Format="#,##0.0_);[red]\(#,##0.0\)"/>
+   </Style>
+   <Style ss:ID="s_currency10BMT">
+      <NumberFormat ss:Format="#,##0.0000000000_);\-#,##0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_currency15">
+      <NumberFormat ss:Format="#,##0.000000000000000_);\(#,##0.000000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency14">
+      <NumberFormat ss:Format="#,##0.00000000000000_);\(#,##0.00000000000000\)"/>
+   </Style>
+   <Style ss:ID="s_currency10RMF">
+      <NumberFormat ss:Format="###0.0000000000_);[red]\-###0.0000000000"/>
+   </Style>
+   <Style ss:ID="s_currency4BPF">
+      <NumberFormat ss:Format="###0.0000_);\(###0.0000\)"/>
+   </Style>
+   <Style ss:ID="s_currency5BMF">
+      <NumberFormat ss:Format="###0.00000_);\-###0.00000"/>
+   </Style>
+</Styles> 
+ <Worksheet ss:Name= "Posted Cash - Statement">
+  <Table>
+  <Column ss:Width="168"/>
+  <Column ss:Width="168"/>
+  <Column ss:Width="147"/>
+  <Column ss:Width="203"/>
+  <Column ss:Width="203"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="168"/>
+  <Column ss:Width="350"/>
+  <Column ss:Width="100"/>
+  <Column ss:Width="100"/>
+  <Column ss:Width="100"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+  <Column ss:Width="140"/>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type= "String">Report Name: Posted Cash - Statement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type= "String">From Date: 05-Aug-2025 To Date: 05-Aug-2025    </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type= "String">Run ID: S-691-924-933</Data></Cell>
+   </Row>
+   <Row>
+   </Row>
+   <Row> 
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Account Number (Balance)</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Balance Posted Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Account CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Account Number (Balance)</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Group Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Opening Balance</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Closing Balance</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Group Amount</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Account Name (Balance)</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Branch Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Branch Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">DGSD Eligible</Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28513</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428513</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI CONSERVATIVE ALLOCATION FUND AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28514</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428514</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">3.83E5</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">3.83E5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI CONSERVATIVE ALLOCATION FUND FBO CITIBANK AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28517</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428517</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI EQUITY ALLOCATION FUND AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28518</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428518</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">7.51E5</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">7.51E5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI EQUITY ALLOCATION COLLATERAL FBO CITIBANK AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28525</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428525</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI MODERATE ALLOCATION FUND AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28526</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428526</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">9.47E5</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">9.47E5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI MODERATE ALLOCATION COLLATERAL FUND FBO CITIBANK AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28529</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428529</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI GROWTH ALLOCATION AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28530</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428530</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.025E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.025E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI GROWTH ALLOCATION COLLATERAL FBO CITIBANK AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28925</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428925</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI CONSERVATIVE ALLOCATION FUND AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28926</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428926</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.25E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.25E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI CONSERVATIVE ALLOCATION FUND COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28927</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428927</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI EQUITY ALLOCATION AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28928</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428928</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.55E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.55E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI EQUITY ALLOCATION COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28929</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428929</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI MODERATE ALLOCATION FUND AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28930</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428930</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.4E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.4E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI MODERATE ALLOCATION FUND COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28931</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428931</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI GROWTH ALLOCATION FUND AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 28932</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728428932</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.65E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.65E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI GROWTH ALLOCATION COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29936</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429936</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI VP CONSERVATIVE ALLOCATION PORTFOLIO AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29937</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429937</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">3.77E5</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">3.77E5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP CONSERVATIVE ALLOCATION PORTFOLIO COLLATERAL FBO CITIBANK AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29938</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429938</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI VP EQUITY ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29939</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429939</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">9.71E5</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">9.71E5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP EQUITY ALLOCATION PORTFOLIO COLLATERAL FBO CITIBANK AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29940</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429940</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI VP GROWTH ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29941</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429941</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP GROWTH ALLOCATION PORTFOLIO COLLATERAL FBO CITIBANK AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29942</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429942</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">CITIBANK COLLATERAL FBO NYLI VP MODERATE ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29943</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429943</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">7.77E5</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">7.77E5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP MODERATE ALLOCATION PORTFOLIO COLLATERAL FBO CITIBANK AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29944</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429944</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI VP CONSERVATIVE ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29945</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429945</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.25E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">1.25E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP CONSERVATIVE ALLOCATION PORTFOLIO COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29946</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429946</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI VP EQUITY ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29947</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429947</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.25E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.25E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP EQUITY ALLOCATION PORTFOLIO COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29948</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429948</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI VP GROWTH ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29949</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429949</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.2E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.2E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP GROWTH ALLOCATION PORTFOLIO COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29950</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429950</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">0E0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">JP MORGAN COLLATERAL FBO NYLI VP MODERATE ALLOCATION PORTFOLIO AS PLEDGE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">G 29951</Data></Cell>
+    <Cell ss:StyleID="sdd-MMM-yyyy"><Data ss:Type="DateTime">2025-08-05T00:00:00</Data></Cell>
+    <Cell><Data ss:Type="String">USD</Data></Cell>
+    <Cell><Data ss:Type="String">0728429951</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.1E6</Data></Cell>
+    <Cell ss:StyleID="s_currency2RPT"><Data ss:Type="Number">2.1E6</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">NYLI VP MODERATE ALLOCATION PORTFOLIO COLLATERAL FBO JP MORGAN AS PLEDGEE</Data></Cell>
+    <Cell><Data ss:Type="String">TN4</Data></Cell>
+    <Cell><Data ss:Type="String">JPMCBNA</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row> 
+   <Row/>
+<Row/>
+
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type= "String">Report Name: Posted Cash - Detail</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type= "String">From Date: 05-Aug-2025 To Date: 05-Aug-2025    </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type= "String">Run ID: S-691-924-933</Data></Cell>
+   </Row>
+   <Row>
+   </Row>
+   <Row> 
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Account Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Posted Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Group Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Account Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Security Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Category Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Status Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Account Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Account Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Cash Account CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Linked Custody Account</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Location/Nominee Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Location/Nominee Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Reg./Sub Acct Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Reg./Sub Acct Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">ASDA/CSDA</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Collection Status Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Customer Reference 1</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Customer Reference 2</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Income Reference</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Transaction Type Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Asset Type Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Asset Category Description</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Security ID</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Coupon Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Maturity Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Pool Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">ISIN</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Ticker</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Units</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Current Face</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Price</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Gross Amount</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Gross Amount CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Principal Amount</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Income Amount</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Commission</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Commission CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Other Charges</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">UK Withholding Tax</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">UK Withholding Tax CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Non UK Withholding Tax</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Non UK Withholding Tax CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Source Tax/NRA</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Source Tax/NRA CCY Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Net Amount</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Exchange Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Trade Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Contractual S/D</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Autosettle Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Ex Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Record Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Payable Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Value Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Last Update Date</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Last Update Time</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Dividend/Interest Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">UK Withholding Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Non UK Withholding Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Source Tax/NRA Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Factor</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Previous Factor</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Principal MOF</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Interest MOF</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Trading Broker Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Trading Broker Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Clearing Broker Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Clearing Broker Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Additional Information</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Bank Reference Number</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">By Order Of</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Sending/Receiving Bank</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">OCC ID</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">S and P CUSIP</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">NIL Payment/Unknown Rate</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Branch Code</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">Branch Name</Data></Cell>
+    <Cell ss:StyleID="ss_Bold"><Data ss:Type="String">DGSD Eligible</Data></Cell>
+   </Row> 
+   <Row> 
+    <Cell><Data ss:Type="String">No Data for this report</Data></Cell> 
+   </Row>
+  </Table> 
+ </Worksheet> 
+</Workbook> 
+

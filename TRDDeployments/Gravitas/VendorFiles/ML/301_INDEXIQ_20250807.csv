@@ -1,0 +1,103 @@
+﻿301. Exposures by Counterparty and Agreement Detail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Counterparty:,NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O IQ GLOBAL RESOURCES ETF A/C GRES:US,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Primary GCI:,339463095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COPER:,214781404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Master ID:,626644,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CSD:,626644,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal:,Merrill Lynch International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Management Center Description:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Date: ,08-Aug-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+Contract ID ,Back Office Number,ProductID,Trade Date ,Effective Date,Maturity Date,Commodity Code,Strike,Contract Rate,Buy/Sell,Ccy1,Notional 1,Ccy2,Notional 2,Initial Margin CCY,Prin Initial Margin Amount,Cpty Initial Margin Amount,Independent Amount CCY,Prin Independent Amount,Cpty Independent Amount,Market Value Ccy,Market Value Amount,Collateral Agreement  Ccy,Market Value Amount in CA Ccy,Market Value Date,Put/Call,Unit,Major Deal,Commodity Type,Price Source,Booking Unit,Link Trade Count,Credit Approval,Underlying Description,Underlying ISIN,Underlying Sedol,Underlying Ric,Contracts
+
+Agreement:,INDEXIQ ADV..GRES:US CSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+ Agreement Level Amounts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+,,,,,,,,,,No Positions to Report ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Counterparty:,NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O NEW YORK LIFE INVESTMENT MANAGEMENT LLC A/C MNA:US,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Primary GCI:,339463087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COPER:,214781396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Master ID:,626639,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CSD:,626639,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal:,Merrill Lynch International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Management Center Description:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Date: ,08-Aug-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+Contract ID ,Back Office Number,ProductID,Trade Date ,Effective Date,Maturity Date,Commodity Code,Strike,Contract Rate,Buy/Sell,Ccy1,Notional 1,Ccy2,Notional 2,Initial Margin CCY,Prin Initial Margin Amount,Cpty Initial Margin Amount,Independent Amount CCY,Prin Independent Amount,Cpty Independent Amount,Market Value Ccy,Market Value Amount,Collateral Agreement  Ccy,Market Value Amount in CA Ccy,Market Value Date,Put/Call,Unit,Major Deal,Commodity Type,Price Source,Booking Unit,Link Trade Count,Credit Approval,Underlying Description,Underlying ISIN,Underlying Sedol,Underlying Ric,Contracts
+
+Agreement:,INDEXIQ ADVI..MNA:US CSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+ Agreement Level Amounts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+,,,,,,,,,,No Positions to Report ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Counterparty:,NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O NEW YORK LIFE INVESTMENTS ETF TRUST - NYLI HEDGE MULTI-STRATEGY TRACKER ETF A/C QAI:US,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Primary GCI:,339463083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COPER:,214781335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Master ID:,626636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CSD:,626636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal:,Merrill Lynch International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Management Center Description:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Date: ,08-Aug-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+Contract ID ,Back Office Number,ProductID,Trade Date ,Effective Date,Maturity Date,Commodity Code,Strike,Contract Rate,Buy/Sell,Ccy1,Notional 1,Ccy2,Notional 2,Initial Margin CCY,Prin Initial Margin Amount,Cpty Initial Margin Amount,Independent Amount CCY,Prin Independent Amount,Cpty Independent Amount,Market Value Ccy,Market Value Amount,Collateral Agreement  Ccy,Market Value Amount in CA Ccy,Market Value Date,Put/Call,Unit,Major Deal,Commodity Type,Price Source,Booking Unit,Link Trade Count,Credit Approval,Underlying Description,Underlying ISIN,Underlying Sedol,Underlying Ric,Contracts
+
+Agreement:,INDEXIQ ADVI..QAI:US CSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+Equity - Swap,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2483326220,7709180188,Swap,30-Aug-2024,30-Aug-2024,27-Feb-2026,IIQ26U.X002,,0.0000,Buy,USD,"78,217,496.15",USD,"601,501.38",USD,0.00,0.00,USD,0.00,0.00,USD,"340,979.72",USD,"340,979.72",07-Aug-2025,,,,,,BT3,1,9999xxx99,  INDEXIQ_QA SWP BSK,,,,
+,,,,,,,,,,,,,,Sub-Total for Product: USD,0.00,0.00,,0.00,0.00,,"340,979.72",,"340,979.72",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Total for Agreement INDEXIQ ADVI..QAI:US CSA in USD:,0.00,0.00,,0.00,0.00,,"340,979.72",,"340,979.72",,,,,,,,,,,,,,
+Counterparty:,NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O INDEXIQ ETF TRUST - IQ HEDGE MARKET NEUTRAL TRACKER ETF A/C QMN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Primary GCI:,339463085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COPER:,214781339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Master ID:,626637,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CSD:,626637,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal:,Merrill Lynch International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Management Center Description:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Date: ,08-Aug-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+Contract ID ,Back Office Number,ProductID,Trade Date ,Effective Date,Maturity Date,Commodity Code,Strike,Contract Rate,Buy/Sell,Ccy1,Notional 1,Ccy2,Notional 2,Initial Margin CCY,Prin Initial Margin Amount,Cpty Initial Margin Amount,Independent Amount CCY,Prin Independent Amount,Cpty Independent Amount,Market Value Ccy,Market Value Amount,Collateral Agreement  Ccy,Market Value Amount in CA Ccy,Market Value Date,Put/Call,Unit,Major Deal,Commodity Type,Price Source,Booking Unit,Link Trade Count,Credit Approval,Underlying Description,Underlying ISIN,Underlying Sedol,Underlying Ric,Contracts
+
+Agreement:,INDEXIQ ADVI..QMN:US CSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+ Agreement Level Amounts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+,,,,,,,,,,No Positions to Report ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Counterparty:,NEW YORK LIFE INVESTMENT MANAGEMENT LLC O/B/O MAINSTAY VP FUNDS TRUST - MAINSTAY VP IQ HEDGE MULTI-STRATEGY PORTFOLIO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Primary GCI:,349571988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COPER:,410167995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Master ID:,1087661,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CSD:,1087661,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal:,Merrill Lynch International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Management Center Description:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Date: ,08-Aug-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+Contract ID ,Back Office Number,ProductID,Trade Date ,Effective Date,Maturity Date,Commodity Code,Strike,Contract Rate,Buy/Sell,Ccy1,Notional 1,Ccy2,Notional 2,Initial Margin CCY,Prin Initial Margin Amount,Cpty Initial Margin Amount,Independent Amount CCY,Prin Independent Amount,Cpty Independent Amount,Market Value Ccy,Market Value Amount,Collateral Agreement  Ccy,Market Value Amount in CA Ccy,Market Value Date,Put/Call,Unit,Major Deal,Commodity Type,Price Source,Booking Unit,Link Trade Count,Credit Approval,Underlying Description,Underlying ISIN,Underlying Sedol,Underlying Ric,Contracts
+
+Agreement:,INDEXIQ ADVISO..PORT CSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+Equity - Swap,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2483325148,7709185480,Swap,30-Aug-2024,30-Aug-2024,27-Feb-2026,IIQ26U.X001,,0.0000,Buy,USD,"23,716,934.30",USD,"380,122.62",USD,0.00,0.00,USD,0.00,0.00,USD,"102,538.71",USD,"102,538.71",07-Aug-2025,,,,,,BT3,1,9999xxx99,  INDEXIQ_MA SWP BSK,,,,
+,,,,,,,,,,,,,,Sub-Total for Product: USD,0.00,0.00,,0.00,0.00,,"102,538.71",,"102,538.71",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Total for Agreement INDEXIQ ADVISO..PORT CSA in USD:,0.00,0.00,,0.00,0.00,,"102,538.71",,"102,538.71",,,,,,,,,,,,,,
+"Aug 8, 2025",02:07 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
