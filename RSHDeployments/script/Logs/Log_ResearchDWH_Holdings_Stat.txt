@@ -1,0 +1,64 @@
+08/11/2025 16:09:55  - Job Start ***********************************************************
+08/11/2025 16:09:55  - Starting counter - 1
+08/11/2025 16:09:55  - Run Date --> 20250808
+08/12/2025 09:44:06  - Job Start ***********************************************************
+08/12/2025 09:44:07  - Starting counter - 1
+08/12/2025 09:44:07  - Run Date --> 20250811
+08/12/2025 09:44:08  - Exception Message: The term 'Invoke-Sqlcmd' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+08/12/2025 09:44:38  - Ending counter - 1
+08/12/2025 09:44:38  - Job End ***********************************************************
+08/12/2025 09:48:29  - Job Start ***********************************************************
+08/12/2025 09:48:29  - Starting counter - 1
+08/12/2025 09:48:29  - Run Date --> 20250811
+08/12/2025 09:56:08  - Job Start ***********************************************************
+08/12/2025 09:56:08  - Starting counter - 1
+08/12/2025 09:56:08  - Run Date --> 20250811
+08/12/2025 09:56:08  - Exception Message: The term 'Invoke-Sqlcmd' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+08/12/2025 09:56:38  - Ending counter - 1
+08/12/2025 09:56:38  - Job End ***********************************************************
+08/12/2025 10:02:55  - Job Start ***********************************************************
+08/12/2025 10:02:55  - Starting counter - 1
+08/12/2025 10:02:55  - Run Date --> 20250811
+08/17/2025 20:39:41  - Job Start ***********************************************************
+08/17/2025 20:39:41  - Starting counter - 1
+08/17/2025 20:39:41  - Run Date --> 20250815
+08/17/2025 20:42:27  - Job Start ***********************************************************
+08/17/2025 20:42:27  - Starting counter - 1
+08/17/2025 20:42:27  - Run Date --> 20250815
+08/17/2025 20:42:27  - Exception Message: The term 'null' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+08/17/2025 20:43:42  - Failed to send error email: User: arn:aws:sts::745027805837:assumed-role/nyl-inviiqresearch-dev-instance-service-role/i-0fae5d7d11d12ea52 is not authorized to perform: secretsmanager:GetSecretValue on resource: indexiq-graph-api-dev/credentials because no identity-based policy allows the secretsmanager:GetSecretValue action
+08/17/2025 20:44:12  - Ending counter - 1
+08/17/2025 20:44:12  - Job End ***********************************************************
+08/17/2025 20:50:35  - Job Start ***********************************************************
+08/17/2025 20:50:35  - Starting counter - 1
+08/17/2025 20:50:35  - Run Date --> 20250815
+08/17/2025 20:50:35  - Exception Message: The term 'null' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+08/17/2025 20:51:07  - Ending counter - 1
+08/17/2025 20:51:07  - Job End ***********************************************************
+08/17/2025 21:14:38  - Job Start ***********************************************************
+08/17/2025 21:14:38  - Starting counter - 1
+08/17/2025 21:14:38  - Run Date --> 20250815
+08/17/2025 21:20:28  - Email sent successfully.
+08/17/2025 21:20:58  - Ending counter - 1
+08/17/2025 21:20:58  - Job End ***********************************************************
+08/17/2025 21:27:29  - Job Start ***********************************************************
+08/17/2025 21:27:29  - Starting counter - 1
+08/17/2025 21:27:29  - Run Date --> 20250815
+08/17/2025 21:35:49  - Email sent successfully.
+08/17/2025 21:36:19  - Ending counter - 1
+08/17/2025 21:36:19  - Job End ***********************************************************
+08/18/2025 10:28:41  - Job Start ***********************************************************
+08/18/2025 10:28:41  - Starting counter - 1
+08/18/2025 10:28:41  - Run Date --> 20250815
+08/18/2025 10:35:40  - Job Start ***********************************************************
+08/18/2025 10:35:41  - Starting counter - 1
+08/18/2025 10:35:42  - Run Date --> 20250815
+08/18/2025 10:51:11  - Email sent successfully.
+08/18/2025 10:51:41  - Ending counter - 1
+08/18/2025 10:51:41  - Job End ***********************************************************
+08/18/2025 11:32:19  - Job Start ***********************************************************
+08/18/2025 11:32:19  - Starting counter - 1
+08/18/2025 11:32:19  - Run Date --> 20250815
+08/18/2025 11:43:52  - Email sent successfully.
+08/18/2025 11:44:22  - Ending counter - 1
+08/18/2025 11:44:22  - Job End ***********************************************************
