@@ -1,0 +1,26 @@
+{
+  "configs": [
+    {
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\IQ\\InKind\\EOD Holdings Report_IQEOD Holdings Report_IQ{previousDate_yyyyMMdd}*.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "EOD Holdings Report_IQEOD Holdi",
+          "DestinationSheet": "EZE Daily Holdings_AUTOLOAD",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\BNY\\InKind\\NYLI Enhanced Basket - Eze Load{previousDate_ddMMMyyyy}.csv",
+      "sourceDestinationMapping": [
+	  
+        {
+          "SourceSheet": "NYLI Enhanced Basket - Eze Load",
+          "DestinationSheet": "Enhanced Basket_AUTOLOAD",
+          "AddHeader": "1"
+        }
+      ]
+    }
+  ]
+}
+
