@@ -1,7 +1,0 @@
-08/22/2025 11:07:02 - Successfully fetched Graph API credentials and email ID.
-08/22/2025 11:07:02 - Job Start ***********************************************************
-08/22/2025 11:08:00 - Daily Margin Execution End  --> for run date 2025-08-22 11:07:02
-08/22/2025 11:08:00 - Checking output file path --> C:\Gravitas\SharedFiles\DailyMargin\Daily_Margin_08222025.xlsx
-08/22/2025 11:08:00 - Daily Margin file generated at C:\Gravitas\SharedFiles\DailyMargin\Daily_Margin_08222025.xlsx.
-08/22/2025 11:08:01 - Email sent successfully from 'Alerts_IIQApps@ntlab.newyorklife.com' to 'nitin_kamble@nylim.com' with subject 'Execute_DailyMargin - File Generated Successfully'.
-08/22/2025 11:08:01 - Job End ***********************************************************
