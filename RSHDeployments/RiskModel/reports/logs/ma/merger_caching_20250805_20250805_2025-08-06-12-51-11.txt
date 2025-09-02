@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------------------------
+C:\RiskModel\reports\logs\ma\merger_caching_20250805_20250805_2025-08-06-12-51-11.txt
+2025-08-06: 12:51:11: log begins
+2025-08-06: 12:51:11: <module>: Caching all mergers acquisitions
+2025-08-06: 12:51:12: process_merger_acquisitions3: Processing Merger & Acquisition for period 2025-08-05 - 2025-08-05
+2025-08-06: 12:51:20: get_deals_between: found 0 deals closed between 2025-08-05 and 2025-08-05
+2025-08-06: 12:51:20: get_deals_by_type: Found 0 deals of type Acquisition / Merger
+2025-08-06: 12:51:20: get_merger_acquisitions: no deals found
+2025-08-06: 12:51:20: process_merger_acquisitions3: No completed merger and acquisition deals between 2025-08-05 and 2025-08-05
+2025-08-06: 12:51:20: <module>: Caching mergers involving a public entity
+2025-08-06: 12:51:21: get_deals_between: found 0 deals announced between 2025-08-05 and 2025-08-05
+2025-08-06: 12:51:21: get_deals_by_type: Found 0 deals of type Acquisition / Merger
+2025-08-06: 12:51:21: get_merger_acquisitions: no deals found
