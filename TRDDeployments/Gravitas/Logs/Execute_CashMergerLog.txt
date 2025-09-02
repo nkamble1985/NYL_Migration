@@ -1,0 +1,10 @@
+2025-08-22 10:34:31 : Successfully fetched Graph API credentials and email ID.
+2025-08-22 10:35:15 : Daily Cash Execution End  --> for run date 2025-08-22 10:34:31
+2025-08-22 10:35:15 : Daily Cash file watcher path  --> C:\Gravitas\SharedFiles\DailyCash\DailyCash_08.22.2025 10.34.xlsx
+2025-08-22 10:35:15 : Daily Cash - Failed to generate file
+2025-08-22 10:35:16 : Email sent successfully from 'Alerts_IIQApps@ntlab.newyorklife.com' to 'nitin_kamble@nylim.com' with subject 'Daily Cash - Failed to generate file'.
+2025-08-22 10:58:43 : Successfully fetched Graph API credentials and email ID.
+2025-08-22 10:59:30 : Daily Cash Execution End  --> for run date 2025-08-22 10:58:43
+2025-08-22 10:59:30 : Daily Cash file watcher path  --> C:\Gravitas\SharedFiles\DailyCash\Daily Cash_08.22.2025 10.58.xlsx
+2025-08-22 10:59:30 : Daily Cash file generated at C:\Gravitas\SharedFiles\DailyCash\Daily Cash_08.22.2025 10.58.xlsx.
+2025-08-22 10:59:31 : Email sent successfully from 'Alerts_IIQApps@ntlab.newyorklife.com' to 'nitin_kamble@nylim.com' with subject 'Daily Cash - File Generated Successfully'.
