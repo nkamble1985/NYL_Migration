@@ -1,0 +1,116 @@
+{
+  "configs": [
+    {
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\BNY\\DailyCash\\NYLI_Summary_{previousDate_MMddyyyy}.xls",
+	 
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "FFrend",
+          "DestinationSheet": "BNY FA Cash",
+          "AddHeader": "0"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\BNY\\DailyCash\\NYLI Daily Settled Cash Balances_{date_ddMMMyyyy}.xls",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "NYLI Daily Settled Cash Balance",
+          "DestinationSheet": "BNY Daily Settled Cash Balance",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\BNY\\DailyCash\\IQ_ETFs_Projected_Cash_Statement_{date_ddMMyyyy}*.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "IQ_ETFs_Projected_Cash_Statemen",
+          "DestinationSheet": "BNY Cash Projection",
+          "AddHeader": "1"
+        }
+      ]
+    },
+    {
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\BNY\\DailyCash\\IQ_ETFs_Custody_Valuation_{date_ddMMyyyy}*.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "IQ_ETFs_Custody_Valuation_{date_ddMMyyyy}",
+          "DestinationSheet": "BNY Custody Valuation",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\BNY\\DailyCash\\Unsettled Trades_{date_ddMMMyyyy}.xls",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "Unsettled Trades",
+          "DestinationSheet": "BNY Unsettled Trades",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\EZE\\DailyCash\\Historical Trade Export_{date}*.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "Historical Trade Export_{date}",
+          "DestinationSheet": "Historical Trades",
+          "AddHeader": "0"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\QAI\\DailyCash\\Detailed Net Asset Valuation - VP IQ_{date}.xls",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "Detailed Net Asset Valuation",
+          "DestinationSheet": "VP FA Holdings",
+          "AddHeader": "0"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\JPM\\DailyCash\\Cash_Projections_{date_yyyyMMdd}.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "JP_Cash Projection - Statement",
+          "DestinationSheet": "VP Proj Cash Statement (8am)",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\JPM\\DailyCash\\Cash_Projections_{date_yyyyMMdd}.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "JP_Cash Projection - Detail",
+          "DestinationSheet": "VP Proj Cash Detail (10am)",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\JPM\\DailyCash\\Priced_Positions_{date_yyyyMMdd}.csv",
+      "sourceDestinationMapping": [
+        {
+           "SourceSheet": "JP_Priced Positions_custody",
+          "DestinationSheet": "VP Priced Positions",
+          "AddHeader": "1"
+        }
+      ]
+    },
+	{
+      "sourceFilePath": "C:\\Gravitas\\VendorFiles\\JPM\\DailyCash\\Outstanding_Trades_{date_yyyyMMdd}.csv",
+      "sourceDestinationMapping": [
+        {
+          "SourceSheet": "JP_Outstanding Trades",
+          "DestinationSheet": "VP Outstanding Trades",
+          "AddHeader": "1"
+        }
+      ]
+    }
+	
+  ]
+}
