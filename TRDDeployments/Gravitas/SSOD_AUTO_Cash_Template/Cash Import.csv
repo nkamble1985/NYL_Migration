@@ -1,7 +1,0 @@
-symbol,portCd,custCd,position,shares,localGrossCost,localSodprice,strategy1,strategy2
-@CASHUSD,MODETF,Index,1,0,1,1,,
-@CASHUSD,CONETF,Index,1,0,1,1,,
-@CASHUSD,MGRETF,Index,1,0,1,1,,
-@CASHUSD,GRWETF,Index,1,0,1,1,,
-@CASHUSD,BALETF,Index,1,0,1,1,,
-@CASHUSD,VPBALETF,Index,1,0,1,1,,
