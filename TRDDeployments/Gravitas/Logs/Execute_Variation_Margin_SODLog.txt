@@ -1,0 +1,7 @@
+08/22/2025 11:10:51 - Successfully fetched Graph API credentials and email ID.
+08/22/2025 11:10:51 - Job Start ***********************************************************
+08/22/2025 11:10:52 - Variation Margin SOD Execution End  --> for run date 2025-08-22 11:10:51
+08/22/2025 11:10:52 - Checking output file path --> C:\Gravitas\SharedFiles\VariationMargin\Variation_Margin_08.22.2025 11.10.xlsx
+08/22/2025 11:10:52 - Variation Margin SOD file generated at C:\Gravitas\SharedFiles\VariationMargin\Variation_Margin_08.22.2025 11.10.xlsx.
+08/22/2025 11:10:52 - Email sent successfully from 'Alerts_IIQApps@ntlab.newyorklife.com' to 'nitin_kamble@nylim.com' with subject 'Execute_Variation_Margin_SOD - File Generated Successfully'.
+08/22/2025 11:10:52 - Job End ***********************************************************
