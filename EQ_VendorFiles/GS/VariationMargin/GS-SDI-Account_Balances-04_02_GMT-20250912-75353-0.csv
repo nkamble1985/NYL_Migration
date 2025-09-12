@@ -1,0 +1,3 @@
+COB Date,GS Account  Number,Client Account Name,Account Type,Currency,Beginning Account Balance (Local),Ending Account Balance (Local),Gross Realized P&L (Local),Net Realized P&L (Local),Commission & Fees (Local),Open Trade Equity (Local),Total Equity (Local),Initial Margin Requirement (Local),Maintenance Margin Requirement (Local),Excess/Deficit (Local),Security on Deposit (Local)
+"20250911","00119212","","01","USD","-141101.30","-242703.90","53587.50","53546.10","-41.40","732325.00","489621.10","3737668.81","3737668.81","3999430.64","7247478.35"
+"20250911","00124852","","01","USD","-60916.90","-109139.00","18220.00","18208.50","-11.50","319415.00","210276.00","1604874.74","1604874.74","2068119.44","3462718.18"

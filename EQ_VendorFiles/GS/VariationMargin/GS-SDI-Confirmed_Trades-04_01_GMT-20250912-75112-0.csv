@@ -1,0 +1,13 @@
+COB Date,Account,Account Name,Trade Type,Buy/ Sell,Quantity,Market,Product,Contract Month,Contract Year,P/C,Strike Price,Contract Currency,Trade Price,Executing Broker,Clearing + Execution Commission (local),Total Fees (local),Option Premium (local),Trade Date
+"20250911","00119212","","New Trade","B","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6634.75000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
+"20250911","00119212","","New Trade","B","3","CME (IMM)","EMINI S&P 500","12","25","","","USD","6635.75000000","GOLDMAN SACHS","-2.70","-4.20","0.00","20250911"
+"20250911","00119212","","New Trade","S","2","CME (IMM)","EMINI S&P 500","12","25","","","USD","6652.50000000","GOLDMAN SACHS","-1.80","-2.80","0.00","20250911"
+"20250911","00119212","","New Trade","S","3","CME (IMM)","EMINI S&P 500","12","25","","","USD","6651.25000000","GOLDMAN SACHS","-2.70","-4.20","0.00","20250911"
+"20250911","00119212","","New Trade","S","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6652.25000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
+"20250911","00119212","","New Trade","B","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6634.00000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
+"20250911","00119212","","New Trade","B","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6636.25000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
+"20250911","00119212","","New Trade","S","6","CME (IMM)","EMINI S&P 500","12","25","","","USD","6646.75000000","GOLDMAN SACHS","-5.40","-8.40","0.00","20250911"
+"20250911","00124852","","New Trade","S","2","CME (IMM)","EMINI S&P 500","12","25","","","USD","6646.75000000","GOLDMAN SACHS","-1.80","-2.80","0.00","20250911"
+"20250911","00124852","","New Trade","S","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6652.25000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
+"20250911","00124852","","New Trade","B","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6635.75000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
+"20250911","00124852","","New Trade","S","1","CME (IMM)","EMINI S&P 500","12","25","","","USD","6651.25000000","GOLDMAN SACHS","-0.90","-1.40","0.00","20250911"
